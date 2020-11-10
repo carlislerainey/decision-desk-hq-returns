@@ -49,6 +49,14 @@ returns <- read_rds("returns.rds") %>%
 
 -----
 
+## Read Directly from Web
+
+You can read the RDS data directly from GitHub with `rio::import()`.
+
+``` r
+r <- rio::import("https://github.com/carlislerainey/decision-desk-hq-returns/raw/master/returns.rds") 
+```
+
 ## GA Returns Example
 
 ``` r
