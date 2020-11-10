@@ -1,0 +1,35 @@
+---
+output: github_document
+---
+
+# 2020 Presidential Election Returns from Decision Desk
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path="figures/")
+```
+
+[Decision Desk HQ](https://decisiondeskhq.com) tweeted out election returns for the 2020 presidential election on the night of the election and the days that followed from [their Twittter account](https://twitter.com/DecisionDeskHQ). 
+
+This repo preserves [those tweets](protected/decision-desk-timeline.csv) and wrangles the information into [returns](returns.csv) by time, state, and candidate.
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(lubridate)
+
+returns <- read_rds("returns.rds") %>%
+  glimpse()
+```
+
+```{r ga}
+ga <- returns %>%
+  filter(state == "GA") %>%
+  filter(time > ymd("2020-11-05"))
+
+ggplot(ga, aes(x = time, y = votes, color = candidate)) + 
+  geom_line() + 
+  scale_y_log10() + 
+  scale_color_manual(values = c("Biden" = scales::muted("blue"),
+                                "Trump" = scales::muted("red"))) + 
+  theme_bw()
+```
+
