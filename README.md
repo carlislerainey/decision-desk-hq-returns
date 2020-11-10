@@ -37,6 +37,7 @@ ggplot(ga, aes(x = time, y = votes, color = candidate)) +
   scale_y_log10() + 
   scale_color_manual(values = c("Biden" = scales::muted("blue"),
                                 "Trump" = scales::muted("red"))) + 
+  labs(title = "Presidental Election Returns in GA") + 
   theme_bw()
 ```
 
