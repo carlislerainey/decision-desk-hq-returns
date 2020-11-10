@@ -1,5 +1,5 @@
-state,time,candidate,votes,share,text
-AZ,2020-11-10T02:09:35Z,Biden,1648642,0.4947,"AZ Presidential Election Results
+state,time,candidate,votes,text
+AZ,2020-11-10T02:09:35Z,Biden,1648642,"AZ Presidential Election Results
 
 Biden (D): 49.47% (1,648,642 votes)
 Trump (R): 49.02% (1,633,896 votes)
@@ -8,7 +8,7 @@ Biden Margin: +14,746 (-2,206)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-10T02:09:35Z,Trump,1633896,0.4902,"AZ Presidential Election Results
+AZ,2020-11-10T02:09:35Z,Trump,1633896,"AZ Presidential Election Results
 
 Biden (D): 49.47% (1,648,642 votes)
 Trump (R): 49.02% (1,633,896 votes)
@@ -17,7 +17,7 @@ Biden Margin: +14,746 (-2,206)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-10T02:08:00Z,Biden,2469118,0.495,"GA Presidential Election Results
+GA,2020-11-10T02:08:00Z,Biden,2469118,"GA Presidential Election Results
 
 Biden (D): 49.5% (2,469,118 votes)
 Trump (R): 49.26% (2,456,781 votes)
@@ -26,7 +26,7 @@ Biden Margin: +12,337 (+746)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-10T02:08:00Z,Trump,2456781,0.4926,"GA Presidential Election Results
+GA,2020-11-10T02:08:00Z,Trump,2456781,"GA Presidential Election Results
 
 Biden (D): 49.5% (2,469,118 votes)
 Trump (R): 49.26% (2,456,781 votes)
@@ -35,7 +35,7 @@ Biden Margin: +12,337 (+746)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-09T20:51:24Z,Biden,2467748,0.495,"GA Presidential Election Results
+GA,2020-11-09T20:51:24Z,Biden,2467748,"GA Presidential Election Results
 
 Biden (D): 49.5% (2,467,748 votes)
 Trump (R): 49.26% (2,456,157 votes)
@@ -44,7 +44,7 @@ Biden Margin: +11,591 (+2,431)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-09T20:51:24Z,Trump,2456157,0.4926,"GA Presidential Election Results
+GA,2020-11-09T20:51:24Z,Trump,2456157,"GA Presidential Election Results
 
 Biden (D): 49.5% (2,467,748 votes)
 Trump (R): 49.26% (2,456,157 votes)
@@ -53,7 +53,7 @@ Biden Margin: +11,591 (+2,431)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-AZ,2020-11-08T23:39:55Z,Biden,1643488,0.495,"AZ Presidential Election Results
+AZ,2020-11-08T23:39:55Z,Biden,1643488,"AZ Presidential Election Results
 
 Biden (D): 49.5% (1,643,488 votes)
 Trump (R): 48.99% (1,626,536 votes)
@@ -62,7 +62,7 @@ Biden Margin: +16,952 (-4,076)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T23:39:55Z,Trump,1626536,0.4899,"AZ Presidential Election Results
+AZ,2020-11-08T23:39:55Z,Trump,1626536,"AZ Presidential Election Results
 
 Biden (D): 49.5% (1,643,488 votes)
 Trump (R): 48.99% (1,626,536 votes)
@@ -71,7 +71,7 @@ Biden Margin: +16,952 (-4,076)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T23:33:39Z,Biden,1638997,0.49570000000000003,"AZ Presidential Election Results
+AZ,2020-11-08T23:33:39Z,Biden,1638997,"AZ Presidential Election Results
 
 Biden (D): 49.57% (1,638,997 votes)
 Trump (R): 48.93% (1,617,969 votes)
@@ -80,7 +80,7 @@ Biden Margin: +21,028 (+926)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLt7E8w"
-AZ,2020-11-08T23:33:39Z,Trump,1617969,0.4893,"AZ Presidential Election Results
+AZ,2020-11-08T23:33:39Z,Trump,1617969,"AZ Presidential Election Results
 
 Biden (D): 49.57% (1,638,997 votes)
 Trump (R): 48.93% (1,617,969 votes)
@@ -89,7 +89,7 @@ Biden Margin: +21,028 (+926)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLt7E8w"
-AZ,2020-11-08T23:05:16Z,Biden,1636934,0.4955,"AZ Presidential Election Results
+AZ,2020-11-08T23:05:16Z,Biden,1636934,"AZ Presidential Election Results
 
 Biden (D): 49.55% (1,636,934 votes)
 Trump (R): 48.95% (1,616,832 votes)
@@ -98,7 +98,7 @@ Biden Margin: +20,102 (+754)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T23:05:16Z,Trump,1616832,0.48950000000000005,"AZ Presidential Election Results
+AZ,2020-11-08T23:05:16Z,Trump,1616832,"AZ Presidential Election Results
 
 Biden (D): 49.55% (1,636,934 votes)
 Trump (R): 48.95% (1,616,832 votes)
@@ -107,7 +107,7 @@ Biden Margin: +20,102 (+754)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T19:36:51Z,Biden,1633181,0.4954,"AZ Presidential Election Results
+AZ,2020-11-08T19:36:51Z,Biden,1633181,"AZ Presidential Election Results
 
 Biden (D): 49.54% (1,633,181 votes)
 Trump (R): 48.96% (1,613,833 votes)
@@ -116,7 +116,7 @@ Biden Margin: +19,348 (+738)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T19:36:51Z,Trump,1613833,0.48960000000000004,"AZ Presidential Election Results
+AZ,2020-11-08T19:36:51Z,Trump,1613833,"AZ Presidential Election Results
 
 Biden (D): 49.54% (1,633,181 votes)
 Trump (R): 48.96% (1,613,833 votes)
@@ -125,7 +125,7 @@ Biden Margin: +19,348 (+738)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T02:22:48Z,Biden,1631195,0.4953,"AZ Presidential Election Results
+AZ,2020-11-08T02:22:48Z,Biden,1631195,"AZ Presidential Election Results
 
 Biden (D): 49.53% (1,631,195 votes)
 Trump (R): 48.97% (1,612,585 votes)
@@ -134,7 +134,7 @@ Biden Margin: +18,610 (-103)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T02:22:48Z,Trump,1612585,0.48969999999999997,"AZ Presidential Election Results
+AZ,2020-11-08T02:22:48Z,Trump,1612585,"AZ Presidential Election Results
 
 Biden (D): 49.53% (1,631,195 votes)
 Trump (R): 48.97% (1,612,585 votes)
@@ -143,7 +143,7 @@ Biden Margin: +18,610 (-103)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T01:08:23Z,Biden,1630127,0.4953,"AZ Presidential Election Results
+AZ,2020-11-08T01:08:23Z,Biden,1630127,"AZ Presidential Election Results
 
 Biden (D): 49.53% (1,630,127 votes)
 Trump (R): 48.97% (1,611,414 votes)
@@ -152,7 +152,7 @@ Biden Margin: +18,713 (-1,860)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-08T01:08:23Z,Trump,1611414,0.48969999999999997,"AZ Presidential Election Results
+AZ,2020-11-08T01:08:23Z,Trump,1611414,"AZ Presidential Election Results
 
 Biden (D): 49.53% (1,630,127 votes)
 Trump (R): 48.97% (1,611,414 votes)
@@ -161,7 +161,7 @@ Biden Margin: +18,713 (-1,860)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-07T23:57:56Z,Biden,2463889,0.4947,"GA Presidential Election Results
+GA,2020-11-07T23:57:56Z,Biden,2463889,"GA Presidential Election Results
 
 Biden (D): 49.47% (2,463,889 votes)
 Trump (R): 49.29% (2,454,729 votes)
@@ -170,7 +170,7 @@ Biden Margin: +9,160 (+1,613)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-07T23:57:56Z,Trump,2454729,0.4929,"GA Presidential Election Results
+GA,2020-11-07T23:57:56Z,Trump,2454729,"GA Presidential Election Results
 
 Biden (D): 49.47% (2,463,889 votes)
 Trump (R): 49.29% (2,454,729 votes)
@@ -179,7 +179,7 @@ Biden Margin: +9,160 (+1,613)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-NC,2020-11-07T19:39:06Z,Trump,2733564,0.5008,"NC Presidential Election Results
+NC,2020-11-07T19:39:06Z,Trump,2733564,"NC Presidential Election Results
 
 Trump (R): 50.08% (2,733,564 votes)
 Biden (D): 48.7% (2,658,167 votes)
@@ -188,7 +188,7 @@ Trump Margin: +75,397 (-1,304)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-07T19:39:06Z,Biden,2658167,0.48700000000000004,"NC Presidential Election Results
+NC,2020-11-07T19:39:06Z,Biden,2658167,"NC Presidential Election Results
 
 Trump (R): 50.08% (2,733,564 votes)
 Biden (D): 48.7% (2,658,167 votes)
@@ -197,7 +197,7 @@ Trump Margin: +75,397 (-1,304)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-GA,2020-11-07T19:26:55Z,Biden,2462038,0.49450000000000005,"GA Presidential Election Results
+GA,2020-11-07T19:26:55Z,Biden,2462038,"GA Presidential Election Results
 
 Biden (D): 49.45% (2,462,038 votes)
 Trump (R): 49.3% (2,454,491 votes)
@@ -206,7 +206,7 @@ Biden Margin: +7,547 (+299)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7Hhvph"
-GA,2020-11-07T19:26:55Z,Trump,2454491,0.493,"GA Presidential Election Results
+GA,2020-11-07T19:26:55Z,Trump,2454491,"GA Presidential Election Results
 
 Biden (D): 49.45% (2,462,038 votes)
 Trump (R): 49.3% (2,454,491 votes)
@@ -215,7 +215,7 @@ Biden Margin: +7,547 (+299)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7Hhvph"
-NV,2020-11-07T17:13:16Z,Biden,641210,0.4991,"NV Presidential Election Results
+NV,2020-11-07T17:13:16Z,Biden,641210,"NV Presidential Election Results
 
 Biden (D): 49.91% (641,210 votes)
 Trump (R): 47.92% (615,690 votes)
@@ -224,7 +224,7 @@ Biden Margin: +25,520 (+2,863)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-07T17:13:16Z,Trump,615690,0.4792,"NV Presidential Election Results
+NV,2020-11-07T17:13:16Z,Trump,615690,"NV Presidential Election Results
 
 Biden (D): 49.91% (641,210 votes)
 Trump (R): 47.92% (615,690 votes)
@@ -233,7 +233,7 @@ Biden Margin: +25,520 (+2,863)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-PA,2020-11-07T16:30:08Z,Biden,3344528,0.4968,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T16:30:08Z,Biden,3344528,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.68% (3,344,528 votes)
 Trump (R): 49.17% (3,310,326 votes)
@@ -244,7 +244,7 @@ Biden Margin: 34,202 (+3,291)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T16:30:08Z,Trump,3310326,0.4917,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T16:30:08Z,Trump,3310326,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.68% (3,344,528 votes)
 Trump (R): 49.17% (3,310,326 votes)
@@ -255,7 +255,7 @@ Biden Margin: 34,202 (+3,291)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T16:24:52Z,Biden,3339344,0.4966,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T16:24:52Z,Biden,3339344,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.66% (3,339,344 votes)
 Trump (R): 49.20% (3,308,433 votes)
@@ -266,7 +266,7 @@ Biden Margin: 30,911 (+2,075)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T16:24:52Z,Trump,3308433,0.49200000000000005,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T16:24:52Z,Trump,3308433,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.66% (3,339,344 votes)
 Trump (R): 49.20% (3,308,433 votes)
@@ -277,7 +277,7 @@ Biden Margin: 30,911 (+2,075)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-07T16:05:32Z,Biden,1626943,0.49560000000000004,"AZ Presidential Election Results
+AZ,2020-11-07T16:05:32Z,Biden,1626943,"AZ Presidential Election Results
 
 Biden (D): 49.56% (1,626,943 votes)
 Trump (R): 48.94% (1,606,370 votes)
@@ -286,7 +286,7 @@ Biden Margin: +20,573 (-7,479)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-07T16:05:32Z,Trump,1606370,0.4894,"AZ Presidential Election Results
+AZ,2020-11-07T16:05:32Z,Trump,1606370,"AZ Presidential Election Results
 
 Biden (D): 49.56% (1,626,943 votes)
 Trump (R): 48.94% (1,606,370 votes)
@@ -295,7 +295,7 @@ Biden Margin: +20,573 (-7,479)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-07T15:59:01Z,Biden,1607430,0.49689999999999995,"AZ Presidential Election Results
+AZ,2020-11-07T15:59:01Z,Biden,1607430,"AZ Presidential Election Results
 
 Biden (D): 49.69% (1,607,430 votes)
 Trump (R): 48.83% (1,579,378 votes)
@@ -304,7 +304,7 @@ Biden Margin: +28,052 (-1,809)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-07T15:59:01Z,Trump,1579378,0.48829999999999996,"AZ Presidential Election Results
+AZ,2020-11-07T15:59:01Z,Trump,1579378,"AZ Presidential Election Results
 
 Biden (D): 49.69% (1,607,430 votes)
 Trump (R): 48.83% (1,579,378 votes)
@@ -313,7 +313,7 @@ Biden Margin: +28,052 (-1,809)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-07T15:57:54Z,Biden,2461455,0.49450000000000005,"GA Presidential Election Results
+GA,2020-11-07T15:57:54Z,Biden,2461455,"GA Presidential Election Results
 
 Biden (D): 49.45% (2,461,455 votes)
 Trump (R): 49.31% (2,454,207 votes)
@@ -322,7 +322,7 @@ Biden Margin: +7,248 (+3,325)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-07T15:57:54Z,Trump,2454207,0.49310000000000004,"GA Presidential Election Results
+GA,2020-11-07T15:57:54Z,Trump,2454207,"GA Presidential Election Results
 
 Biden (D): 49.45% (2,461,455 votes)
 Trump (R): 49.31% (2,454,207 votes)
@@ -331,7 +331,7 @@ Biden Margin: +7,248 (+3,325)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-07T03:45:40Z,Biden,3336913,0.4964,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T03:45:40Z,Biden,3336913,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.64% (3,336,913 votes)
 Trump (R): 49.21% (3,308,077 votes)
@@ -342,7 +342,7 @@ Biden Margin: 28,836 (+1,703)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T03:45:40Z,Trump,3308077,0.4921,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T03:45:40Z,Trump,3308077,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.64% (3,336,913 votes)
 Trump (R): 49.21% (3,308,077 votes)
@@ -353,7 +353,7 @@ Biden Margin: 28,836 (+1,703)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T02:38:14Z,Biden,3334477,0.4963,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T02:38:14Z,Biden,3334477,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.63% (3,334,477 votes)
 Trump (R): 49.22% (3,307,344 votes)
@@ -365,7 +365,7 @@ Estimated: &gt; 95% votes in
  
 More results here:
 https://t.co/BgcQsEyt3j"
-PA,2020-11-07T02:38:14Z,Trump,3307344,0.49219999999999997,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T02:38:14Z,Trump,3307344,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.63% (3,334,477 votes)
 Trump (R): 49.22% (3,307,344 votes)
@@ -377,7 +377,7 @@ Estimated: &gt; 95% votes in
  
 More results here:
 https://t.co/BgcQsEyt3j"
-AZ,2020-11-07T02:05:52Z,Biden,1604067,0.4972,"AZ Presidential Election Results
+AZ,2020-11-07T02:05:52Z,Biden,1604067,"AZ Presidential Election Results
 
 Biden (D): 49.72% (1,604,067 votes)
 Trump (R): 48.8% (1,574,206 votes)
@@ -386,7 +386,7 @@ Biden Margin: +29,861 (-6,974)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-07T02:05:52Z,Trump,1574206,0.488,"AZ Presidential Election Results
+AZ,2020-11-07T02:05:52Z,Trump,1574206,"AZ Presidential Election Results
 
 Biden (D): 49.72% (1,604,067 votes)
 Trump (R): 48.8% (1,574,206 votes)
@@ -395,7 +395,7 @@ Biden Margin: +29,861 (-6,974)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-07T02:00:34Z,Biden,3326672,0.4959,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T02:00:34Z,Biden,3326672,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.59% (3,326,672 votes)
 Trump (R): 49.27% (3,305,144 votes)
@@ -406,7 +406,7 @@ Biden Margin: 21,528 (+731)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T02:00:34Z,Trump,3305144,0.4927,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T02:00:34Z,Trump,3305144,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.59% (3,326,672 votes)
 Trump (R): 49.27% (3,305,144 votes)
@@ -417,7 +417,7 @@ Biden Margin: 21,528 (+731)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T01:23:05Z,Biden,3325379,0.49579999999999996,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T01:23:05Z,Biden,3325379,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.58% (3,325,379 votes)
 Trump (R): 49.27% (3,304,738 votes)
@@ -428,7 +428,7 @@ Biden Margin: 20,641 (+1,631)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T01:23:05Z,Trump,3304738,0.4927,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T01:23:05Z,Trump,3304738,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.58% (3,325,379 votes)
 Trump (R): 49.27% (3,304,738 votes)
@@ -439,7 +439,7 @@ Biden Margin: 20,641 (+1,631)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-07T00:33:45Z,Biden,1572346,0.4986,"AZ Presidential Election Results
+AZ,2020-11-07T00:33:45Z,Biden,1572346,"AZ Presidential Election Results
 
 Biden (D): 49.86% (1,572,346 votes)
 Trump (R): 48.69% (1,535,511 votes)
@@ -448,7 +448,7 @@ Biden Margin: +36,835 (-1,620)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-07T00:33:45Z,Trump,1535511,0.4869,"AZ Presidential Election Results
+AZ,2020-11-07T00:33:45Z,Trump,1535511,"AZ Presidential Election Results
 
 Biden (D): 49.86% (1,572,346 votes)
 Trump (R): 48.69% (1,535,511 votes)
@@ -457,7 +457,7 @@ Biden Margin: +36,835 (-1,620)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-07T00:17:26Z,Biden,2456472,0.49420000000000003,"GA Presidential Election Results
+GA,2020-11-07T00:17:26Z,Biden,2456472,"GA Presidential Election Results
 
 Biden (D): 49.42% (2,456,472 votes)
 Trump (R): 49.34% (2,452,549 votes)
@@ -466,7 +466,7 @@ Biden Margin: +3,923 (-317)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-07T00:17:26Z,Trump,2452549,0.49340000000000006,"GA Presidential Election Results
+GA,2020-11-07T00:17:26Z,Trump,2452549,"GA Presidential Election Results
 
 Biden (D): 49.42% (2,456,472 votes)
 Trump (R): 49.34% (2,452,549 votes)
@@ -475,7 +475,7 @@ Biden Margin: +3,923 (-317)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-07T00:13:42Z,Biden,3322897,0.49570000000000003,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T00:13:42Z,Biden,3322897,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.57% (3,322,897 votes)
 Trump (R): 49.27% (3,303,887 votes)
@@ -486,7 +486,7 @@ Biden Margin: 19,010 (+2,703)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-07T00:13:42Z,Trump,3303887,0.4927,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-07T00:13:42Z,Trump,3303887,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.57% (3,322,897 votes)
 Trump (R): 49.27% (3,303,887 votes)
@@ -497,7 +497,7 @@ Biden Margin: 19,010 (+2,703)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-06T23:46:14Z,Biden,1571723,0.4989,"AZ Presidential Election Results
+AZ,2020-11-06T23:46:14Z,Biden,1571723,"AZ Presidential Election Results
 
 Biden (D): 49.89% (1,571,723 votes)
 Trump (R): 48.67% (1,533,268 votes)
@@ -506,7 +506,7 @@ Biden Margin: +38,455 (-969)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T23:46:14Z,Trump,1533268,0.4867,"AZ Presidential Election Results
+AZ,2020-11-06T23:46:14Z,Trump,1533268,"AZ Presidential Election Results
 
 Biden (D): 49.89% (1,571,723 votes)
 Trump (R): 48.67% (1,533,268 votes)
@@ -515,7 +515,7 @@ Biden Margin: +38,455 (-969)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-06T23:41:20Z,Biden,3318353,0.4955,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T23:41:20Z,Biden,3318353,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.55% (3,318,353 votes)
 Trump (R): 49.30% (3,302,046 votes)
@@ -526,7 +526,7 @@ Biden Margin: 16,307 (+1,901)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T23:41:20Z,Trump,3302046,0.493,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T23:41:20Z,Trump,3302046,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.55% (3,318,353 votes)
 Trump (R): 49.30% (3,302,046 votes)
@@ -537,7 +537,7 @@ Biden Margin: 16,307 (+1,901)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-NV,2020-11-06T23:21:34Z,Biden,632558,0.49829999999999997,"NV Presidential Election Results
+NV,2020-11-06T23:21:34Z,Biden,632558,"NV Presidential Election Results
 
 Biden (D): 49.83% (632,558 votes)
 Trump (R): 48.04% (609,901 votes)
@@ -546,7 +546,7 @@ Biden Margin: +22,657 (+2,520)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-06T23:21:34Z,Trump,609901,0.4804,"NV Presidential Election Results
+NV,2020-11-06T23:21:34Z,Trump,609901,"NV Presidential Election Results
 
 Biden (D): 49.83% (632,558 votes)
 Trump (R): 48.04% (609,901 votes)
@@ -555,7 +555,7 @@ Biden Margin: +22,657 (+2,520)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-AZ,2020-11-06T23:07:48Z,Biden,1567561,0.4991,"AZ Presidential Election Results
+AZ,2020-11-06T23:07:48Z,Biden,1567561,"AZ Presidential Election Results
 
 Biden (D): 49.91% (1,567,561 votes)
 Trump (R): 48.65% (1,528,137 votes)
@@ -564,7 +564,7 @@ Biden Margin: +39,424 (-345)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T23:07:48Z,Trump,1528137,0.4865,"AZ Presidential Election Results
+AZ,2020-11-06T23:07:48Z,Trump,1528137,"AZ Presidential Election Results
 
 Biden (D): 49.91% (1,567,561 votes)
 Trump (R): 48.65% (1,528,137 votes)
@@ -573,7 +573,7 @@ Biden Margin: +39,424 (-345)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-06T22:02:41Z,Biden,2455452,0.49420000000000003,"GA Presidential Election Results
+GA,2020-11-06T22:02:41Z,Biden,2455452,"GA Presidential Election Results
 
 Biden (D): 49.42% (2,455,452 votes)
 Trump (R): 49.34% (2,451,212 votes)
@@ -582,7 +582,7 @@ Biden Margin: 4,240 (+2,702)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T22:02:41Z,Trump,2451212,0.49340000000000006,"GA Presidential Election Results
+GA,2020-11-06T22:02:41Z,Trump,2451212,"GA Presidential Election Results
 
 Biden (D): 49.42% (2,455,452 votes)
 Trump (R): 49.34% (2,451,212 votes)
@@ -591,7 +591,7 @@ Biden Margin: 4,240 (+2,702)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T21:45:15Z,Biden,3315073,0.4953,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T21:45:15Z,Biden,3315073,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,315,073 votes)
 Trump (R): 49.32% (3,300,667 votes)
@@ -602,7 +602,7 @@ Biden Margin: 14,406 (-234)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T21:45:15Z,Trump,3300667,0.4932,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T21:45:15Z,Trump,3300667,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,315,073 votes)
 Trump (R): 49.32% (3,300,667 votes)
@@ -613,7 +613,7 @@ Biden Margin: 14,406 (-234)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-06T21:03:02Z,Biden,2450524,0.494,"GA Presidential Election Results
+GA,2020-11-06T21:03:02Z,Biden,2450524,"GA Presidential Election Results
 
 Biden (D): 49.4% (2,450,524 votes)
 Trump (R): 49.37% (2,448,986 votes)
@@ -622,7 +622,7 @@ Biden Margin: 1,538 (-41)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T21:03:02Z,Trump,2448986,0.49369999999999997,"GA Presidential Election Results
+GA,2020-11-06T21:03:02Z,Trump,2448986,"GA Presidential Election Results
 
 Biden (D): 49.4% (2,450,524 votes)
 Trump (R): 49.37% (2,448,986 votes)
@@ -631,7 +631,7 @@ Biden Margin: 1,538 (-41)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T21:00:31Z,Biden,3314702,0.4954,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T21:00:31Z,Biden,3314702,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.54% (3,314,702 votes)
 Trump (R): 49.32% (3,300,062 votes)
@@ -642,7 +642,7 @@ Biden Margin: 14,640 (+1,253)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T21:00:31Z,Trump,3300062,0.4932,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T21:00:31Z,Trump,3300062,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.54% (3,314,702 votes)
 Trump (R): 49.32% (3,300,062 votes)
@@ -653,7 +653,7 @@ Biden Margin: 14,640 (+1,253)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-06T20:31:08Z,Biden,1564883,0.49920000000000003,"AZ Presidential Election Results
+AZ,2020-11-06T20:31:08Z,Biden,1564883,"AZ Presidential Election Results
 
 Biden (D): 49.92% (1,564,883 votes)
 Trump (R): 48.65% (1,525,114 votes)
@@ -662,7 +662,7 @@ Biden Margin: +39,769 (-1,185)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T20:31:08Z,Trump,1525114,0.4865,"AZ Presidential Election Results
+AZ,2020-11-06T20:31:08Z,Trump,1525114,"AZ Presidential Election Results
 
 Biden (D): 49.92% (1,564,883 votes)
 Trump (R): 48.65% (1,525,114 votes)
@@ -671,7 +671,7 @@ Biden Margin: +39,769 (-1,185)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T19:52:38Z,Biden,1562200,0.49939999999999996,"AZ Presidential Election Results
+AZ,2020-11-06T19:52:38Z,Biden,1562200,"AZ Presidential Election Results
 
 Biden (D): 49.94% (1,562,200 votes)
 Trump (R): 48.63% (1,521,246 votes)
@@ -680,7 +680,7 @@ Biden Margin: +40,954 (-348)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T19:52:38Z,Trump,1521246,0.4863,"AZ Presidential Election Results
+AZ,2020-11-06T19:52:38Z,Trump,1521246,"AZ Presidential Election Results
 
 Biden (D): 49.94% (1,562,200 votes)
 Trump (R): 48.63% (1,521,246 votes)
@@ -689,7 +689,7 @@ Biden Margin: +40,954 (-348)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-06T19:29:59Z,Biden,3311518,0.4953,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T19:29:59Z,Biden,3311518,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,311,518 votes)
 Trump (R): 49.33% (3,298,131 votes)
@@ -700,7 +700,7 @@ Biden Margin: 13,387 (+186)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T19:29:59Z,Trump,3298131,0.49329999999999996,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T19:29:59Z,Trump,3298131,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,311,518 votes)
 Trump (R): 49.33% (3,298,131 votes)
@@ -711,7 +711,7 @@ Biden Margin: 13,387 (+186)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-06T19:28:33Z,Biden,1561841,0.49939999999999996,"AZ Presidential Election Results
+AZ,2020-11-06T19:28:33Z,Biden,1561841,"AZ Presidential Election Results
 
 Biden (D): 49.94% (1,561,841 votes)
 Trump (R): 48.62% (1,520,539 votes)
@@ -720,7 +720,7 @@ Biden Margin: +41,302 (-5,750)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T19:28:33Z,Trump,1520539,0.48619999999999997,"AZ Presidential Election Results
+AZ,2020-11-06T19:28:33Z,Trump,1520539,"AZ Presidential Election Results
 
 Biden (D): 49.94% (1,561,841 votes)
 Trump (R): 48.62% (1,520,539 votes)
@@ -729,7 +729,7 @@ Biden Margin: +41,302 (-5,750)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-06T18:28:56Z,Biden,3310409,0.4953,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T18:28:56Z,Biden,3310409,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,310,409 votes)
 Trump (R): 49.33% (3,297,208 votes)
@@ -740,7 +740,7 @@ Biden Margin: 13,201 (+981)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T18:28:56Z,Trump,3297208,0.49329999999999996,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T18:28:56Z,Trump,3297208,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.53% (3,310,409 votes)
 Trump (R): 49.33% (3,297,208 votes)
@@ -751,7 +751,7 @@ Biden Margin: 13,201 (+981)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-NV,2020-11-06T18:06:29Z,Biden,627104,0.4974,"NV Presidential Election Results
+NV,2020-11-06T18:06:29Z,Biden,627104,"NV Presidential Election Results
 
 Biden (D): 49.74% (627,104 votes)
 Trump (R): 48.14% (606,967 votes)
@@ -760,7 +760,7 @@ Biden Margin: +20,137 (-415)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-06T18:06:29Z,Trump,606967,0.4814,"NV Presidential Election Results
+NV,2020-11-06T18:06:29Z,Trump,606967,"NV Presidential Election Results
 
 Biden (D): 49.74% (627,104 votes)
 Trump (R): 48.14% (606,967 votes)
@@ -769,7 +769,7 @@ Biden Margin: +20,137 (-415)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-PA,2020-11-06T18:01:37Z,Biden,3307877,0.49520000000000003,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T18:01:37Z,Biden,3307877,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.52% (3,307,877 votes)
 Trump (R): 49.34% (3,295,657 votes)
@@ -780,7 +780,7 @@ Biden Margin: 12,220 (+2,644)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T18:01:37Z,Trump,3295657,0.49340000000000006,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T18:01:37Z,Trump,3295657,"PA Presidential Election Results - Called for Biden (D)
  
 Biden (D): 49.52% (3,307,877 votes)
 Trump (R): 49.34% (3,295,657 votes)
@@ -791,7 +791,7 @@ Biden Margin: 12,220 (+2,644)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T17:09:22Z,Biden,3303130,0.495,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T17:09:22Z,Biden,3303130,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.50% (3,303,130 votes)
 Trump (R): 49.36% (3,293,554 votes)
@@ -802,7 +802,7 @@ Biden Margin: 9,576 (+731)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T17:09:22Z,Trump,3293554,0.4936,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T17:09:22Z,Trump,3293554,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.50% (3,303,130 votes)
 Trump (R): 49.36% (3,293,554 votes)
@@ -813,7 +813,7 @@ Biden Margin: 9,576 (+731)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-NV,2020-11-06T16:57:06Z,Biden,626202,0.4976,"NV Presidential Election Results
+NV,2020-11-06T16:57:06Z,Biden,626202,"NV Presidential Election Results
 
 Biden (D): 49.76% (626,202 votes)
 Trump (R): 48.13% (605,650 votes)
@@ -822,7 +822,7 @@ Biden Margin: +20,552 (-1,524)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-06T16:57:06Z,Trump,605650,0.4813,"NV Presidential Election Results
+NV,2020-11-06T16:57:06Z,Trump,605650,"NV Presidential Election Results
 
 Biden (D): 49.76% (626,202 votes)
 Trump (R): 48.13% (605,650 votes)
@@ -831,7 +831,7 @@ Biden Margin: +20,552 (-1,524)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-06T16:36:34Z,Biden,624246,0.49829999999999997,"NV Presidential Election Results 
+NV,2020-11-06T16:36:34Z,Biden,624246,"NV Presidential Election Results 
 
 Biden (D): 49.83% (624,246 votes)
 Trump (R): 48.07% (602,170 votes)
@@ -840,7 +840,7 @@ Biden Margin: +22,076
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-06T16:36:34Z,Trump,602170,0.4807,"NV Presidential Election Results 
+NV,2020-11-06T16:36:34Z,Trump,602170,"NV Presidential Election Results 
 
 Biden (D): 49.83% (624,246 votes)
 Trump (R): 48.07% (602,170 votes)
@@ -849,7 +849,7 @@ Biden Margin: +22,076
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-PA,2020-11-06T16:21:38Z,Biden,3301222,0.4949,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T16:21:38Z,Biden,3301222,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.49% (3,301,222 votes)
 Trump (R): 49.36% (3,292,377 votes)
@@ -858,7 +858,7 @@ Biden Margin: +8,845 (+2,281)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T16:21:38Z,Trump,3292377,0.4936,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T16:21:38Z,Trump,3292377,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.49% (3,301,222 votes)
 Trump (R): 49.36% (3,292,377 votes)
@@ -867,7 +867,7 @@ Biden Margin: +8,845 (+2,281)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-06T15:39:09Z,Biden,2450117,0.4939,"GA Presidential Election Results 
+GA,2020-11-06T15:39:09Z,Biden,2450117,"GA Presidential Election Results 
  
 Biden (D): 49.39.% ( 2,450,117 votes)
 Trump (R): 49.37% ( 2,448,538 votes)
@@ -876,7 +876,7 @@ Biden Margin: 1,579  (+483)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T15:39:09Z,Trump,2448538,0.49369999999999997,"GA Presidential Election Results 
+GA,2020-11-06T15:39:09Z,Trump,2448538,"GA Presidential Election Results 
  
 Biden (D): 49.39.% ( 2,450,117 votes)
 Trump (R): 49.37% ( 2,448,538 votes)
@@ -885,7 +885,7 @@ Biden Margin: 1,579  (+483)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T15:04:56Z,Biden,3297553,0.49479999999999996,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T15:04:56Z,Biden,3297553,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.48% (3,297,553 votes) 
 Trump (R): 49.29% (3,290,989 votes)
@@ -894,7 +894,7 @@ Biden Margin: 6,564
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T15:04:56Z,Trump,3290989,0.4929,"PA Presidential Election Results - Called for Biden (D)
+PA,2020-11-06T15:04:56Z,Trump,3290989,"PA Presidential Election Results - Called for Biden (D)
 
 Biden (D): 49.48% (3,297,553 votes) 
 Trump (R): 49.29% (3,290,989 votes)
@@ -903,7 +903,7 @@ Biden Margin: 6,564
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-06T10:10:29Z,Biden,2449580,0.4939,"GA Presidential Election Results 
+GA,2020-11-06T10:10:29Z,Biden,2449580,"GA Presidential Election Results 
  
 Biden (D): 49.39.% ( 2,449,580 votes)
 Trump (R): 49.37% ( 2,448,484 votes)
@@ -912,7 +912,7 @@ Biden Margin:  (+ 1,096)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T10:10:29Z,Trump,2448484,0.49369999999999997,"GA Presidential Election Results 
+GA,2020-11-06T10:10:29Z,Trump,2448484,"GA Presidential Election Results 
  
 Biden (D): 49.39.% ( 2,449,580 votes)
 Trump (R): 49.37% ( 2,448,484 votes)
@@ -921,7 +921,7 @@ Biden Margin:  (+ 1,096)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T09:22:06Z,Biden,2449371,0.4939,"GA Presidential Election Results - Biden takes the Lead
+GA,2020-11-06T09:22:06Z,Biden,2449371,"GA Presidential Election Results - Biden takes the Lead
  
 Biden (D): 49.39.% ( 2,449,371 votes)
 Trump (R): 49.37% ( 2,448,454 votes)
@@ -930,7 +930,7 @@ Biden Margin:  (+917)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T09:22:06Z,Trump,2448454,0.49369999999999997,"GA Presidential Election Results - Biden takes the Lead
+GA,2020-11-06T09:22:06Z,Trump,2448454,"GA Presidential Election Results - Biden takes the Lead
  
 Biden (D): 49.39.% ( 2,449,371 votes)
 Trump (R): 49.37% ( 2,448,454 votes)
@@ -939,7 +939,7 @@ Biden Margin:  (+917)
 Estimated: &gt; 99% votes in
  
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T08:40:26Z,Trump,2448232,0.4939,"GA Presidential Election Results
+GA,2020-11-06T08:40:26Z,Trump,2448232,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,232 votes)
 Biden (D): 49.38% (2,447,769 votes)
@@ -948,7 +948,7 @@ Trump Margin: +463 (-202)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T08:40:26Z,Biden,2447769,0.4938,"GA Presidential Election Results
+GA,2020-11-06T08:40:26Z,Biden,2447769,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,232 votes)
 Biden (D): 49.38% (2,447,769 votes)
@@ -957,7 +957,7 @@ Trump Margin: +463 (-202)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T07:41:12Z,Trump,2448183,0.4939,"GA Presidential Election Results
+GA,2020-11-06T07:41:12Z,Trump,2448183,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,183 votes)
 Biden (D): 49.37% (2,447,518 votes)
@@ -966,7 +966,7 @@ Trump Margin: +665 (-602)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T07:41:12Z,Biden,2447518,0.49369999999999997,"GA Presidential Election Results
+GA,2020-11-06T07:41:12Z,Biden,2447518,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,183 votes)
 Biden (D): 49.37% (2,447,518 votes)
@@ -975,7 +975,7 @@ Trump Margin: +665 (-602)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T06:31:07Z,Trump,2448081,0.4939,"GA Presidential Election Results
+GA,2020-11-06T06:31:07Z,Trump,2448081,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,081 votes)
 Biden (D): 49.37% (2,446,814 votes)
@@ -984,7 +984,7 @@ Trump Margin: +1,267 (-212)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T06:31:07Z,Biden,2446814,0.49369999999999997,"GA Presidential Election Results
+GA,2020-11-06T06:31:07Z,Biden,2446814,"GA Presidential Election Results
 
 Trump (R): 49.39% (2,448,081 votes)
 Biden (D): 49.37% (2,446,814 votes)
@@ -993,7 +993,7 @@ Trump Margin: +1,267 (-212)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T06:22:32Z,Trump,3286193,0.49560000000000004,"PA Presidential Election Results
+PA,2020-11-06T06:22:32Z,Trump,3286193,"PA Presidential Election Results
 
 Trump (R): 49.56% (3,286,193 votes)
 Biden (D): 49.29% (3,267,969 votes)
@@ -1002,7 +1002,7 @@ Trump Margin: +18,224 (-4,347)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T06:22:32Z,Biden,3267969,0.4929,"PA Presidential Election Results
+PA,2020-11-06T06:22:32Z,Biden,3267969,"PA Presidential Election Results
 
 Trump (R): 49.56% (3,286,193 votes)
 Biden (D): 49.29% (3,267,969 votes)
@@ -1011,7 +1011,7 @@ Trump Margin: +18,224 (-4,347)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-06T05:45:28Z,Trump,2448056,0.494,"GA Presidential Election Results
+GA,2020-11-06T05:45:28Z,Trump,2448056,"GA Presidential Election Results
 
 Trump (R): 49.4% (2,448,056 votes)
 Biden (D): 49.37% (2,446,577 votes)
@@ -1020,7 +1020,7 @@ Trump Margin: +1,479 (-318)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T05:45:28Z,Biden,2446577,0.49369999999999997,"GA Presidential Election Results
+GA,2020-11-06T05:45:28Z,Biden,2446577,"GA Presidential Election Results
 
 Trump (R): 49.4% (2,448,056 votes)
 Biden (D): 49.37% (2,446,577 votes)
@@ -1029,7 +1029,7 @@ Trump Margin: +1,479 (-318)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-AZ,2020-11-06T05:31:36Z,Biden,1532062,0.5007,"AZ Presidential Election Results
+AZ,2020-11-06T05:31:36Z,Biden,1532062,"AZ Presidential Election Results
 
 Biden (D): 50.07% (1,532,062 votes)
 Trump (R): 48.53% (1,485,010 votes)
@@ -1038,7 +1038,7 @@ Biden Margin: +47,052 (+795)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T05:31:36Z,Trump,1485010,0.4853,"AZ Presidential Election Results
+AZ,2020-11-06T05:31:36Z,Trump,1485010,"AZ Presidential Election Results
 
 Biden (D): 50.07% (1,532,062 votes)
 Trump (R): 48.53% (1,485,010 votes)
@@ -1047,7 +1047,7 @@ Biden Margin: +47,052 (+795)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-06T05:03:28Z,Trump,3285467,0.496,"PA Presidential Election Results
+PA,2020-11-06T05:03:28Z,Trump,3285467,"PA Presidential Election Results
 
 Trump (R): 49.6% (3,285,467 votes)
 Biden (D): 49.26% (3,262,896 votes)
@@ -1056,7 +1056,7 @@ Trump Margin: +22,571 (-1,908)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T05:03:28Z,Biden,3262896,0.4926,"PA Presidential Election Results
+PA,2020-11-06T05:03:28Z,Biden,3262896,"PA Presidential Election Results
 
 Trump (R): 49.6% (3,285,467 votes)
 Biden (D): 49.26% (3,262,896 votes)
@@ -1065,7 +1065,7 @@ Trump Margin: +22,571 (-1,908)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T04:27:06Z,Trump,3283054,0.4961,"PA Presidential Election Results
+PA,2020-11-06T04:27:06Z,Trump,3283054,"PA Presidential Election Results
 
 Trump (R): 49.61% (3,283,054 votes)
 Biden (D): 49.24% (3,258,575 votes)
@@ -1074,7 +1074,7 @@ Trump Margin: 24,479 (-1,835)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T04:27:06Z,Biden,3258575,0.4924,"PA Presidential Election Results
+PA,2020-11-06T04:27:06Z,Biden,3258575,"PA Presidential Election Results
 
 Trump (R): 49.61% (3,283,054 votes)
 Biden (D): 49.24% (3,258,575 votes)
@@ -1083,7 +1083,7 @@ Trump Margin: 24,479 (-1,835)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T03:35:06Z,Trump,3282070,0.4962,"PA Presidential Election Results
+PA,2020-11-06T03:35:06Z,Trump,3282070,"PA Presidential Election Results
 
 Trump (R): 49.62% (3,282,070 votes)
 Biden (D): 49.23% (3,255,756 votes)
@@ -1092,7 +1092,7 @@ Trump Margin: +26,314 (-10,253)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T03:35:06Z,Biden,3255756,0.49229999999999996,"PA Presidential Election Results
+PA,2020-11-06T03:35:06Z,Biden,3255756,"PA Presidential Election Results
 
 Trump (R): 49.62% (3,282,070 votes)
 Biden (D): 49.23% (3,255,756 votes)
@@ -1101,7 +1101,7 @@ Trump Margin: +26,314 (-10,253)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T03:31:56Z,Trump,3280330,0.49700000000000005,"PA Presidential Election Results
+PA,2020-11-06T03:31:56Z,Trump,3280330,"PA Presidential Election Results
 
 Trump (R): 49.7% (3,280,330 votes)
 Biden (D): 49.15% (3,243,763 votes)
@@ -1110,7 +1110,7 @@ Trump Margin: +36,567 (-5,577)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T03:31:56Z,Biden,3243763,0.4915,"PA Presidential Election Results
+PA,2020-11-06T03:31:56Z,Biden,3243763,"PA Presidential Election Results
 
 Trump (R): 49.7% (3,280,330 votes)
 Biden (D): 49.15% (3,243,763 votes)
@@ -1119,7 +1119,7 @@ Trump Margin: +36,567 (-5,577)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-06T03:08:56Z,Trump,2447337,0.494,"GA Presidential Election Results
+GA,2020-11-06T03:08:56Z,Trump,2447337,"GA Presidential Election Results
 
 Trump (R): 49.4% (2,447,337 votes)
 Biden (D): 49.36% (2,445,540 votes)
@@ -1128,7 +1128,7 @@ Trump Margin: +1,797 (105)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T03:08:56Z,Biden,2445540,0.4936,"GA Presidential Election Results
+GA,2020-11-06T03:08:56Z,Biden,2445540,"GA Presidential Election Results
 
 Trump (R): 49.4% (2,447,337 votes)
 Biden (D): 49.36% (2,445,540 votes)
@@ -1137,7 +1137,7 @@ Trump Margin: +1,797 (105)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T02:47:01Z,Trump,2447223,0.494,"GA Presidential Election Results
+GA,2020-11-06T02:47:01Z,Trump,2447223,"GA Presidential Election Results
 
 Trump (R): 49.40% (2,447,223 votes)
 Biden (D): 49.36% (2,445,321 votes)
@@ -1146,7 +1146,7 @@ Trump Margin: +1,902 (-595)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T02:47:01Z,Biden,2445321,0.4936,"GA Presidential Election Results
+GA,2020-11-06T02:47:01Z,Biden,2445321,"GA Presidential Election Results
 
 Trump (R): 49.40% (2,447,223 votes)
 Biden (D): 49.36% (2,445,321 votes)
@@ -1155,7 +1155,7 @@ Trump Margin: +1,902 (-595)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T02:40:24Z,Trump,3277932,0.4975,"PA Presidential Election Results
+PA,2020-11-06T02:40:24Z,Trump,3277932,"PA Presidential Election Results
 
 Trump (R): 49.75% (3,277,932 votes)
 Biden (D): 49.11% (3,235,788 votes)
@@ -1164,7 +1164,7 @@ Trump Margin: +42,144 (-6,712)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T02:40:24Z,Biden,3235788,0.4911,"PA Presidential Election Results
+PA,2020-11-06T02:40:24Z,Biden,3235788,"PA Presidential Election Results
 
 Trump (R): 49.75% (3,277,932 votes)
 Biden (D): 49.11% (3,235,788 votes)
@@ -1173,7 +1173,7 @@ Trump Margin: +42,144 (-6,712)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T02:10:45Z,Trump,3273803,0.498,"PA Presidential Election Results
+PA,2020-11-06T02:10:45Z,Trump,3273803,"PA Presidential Election Results
 
 Trump (R): 49.8% (3,273,803 votes)
 Biden (D): 49.05% (3,224,947 votes)
@@ -1182,7 +1182,7 @@ Trump Margin: +48,856 (-4,377)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T02:10:45Z,Biden,3224947,0.4905,"PA Presidential Election Results
+PA,2020-11-06T02:10:45Z,Biden,3224947,"PA Presidential Election Results
 
 Trump (R): 49.8% (3,273,803 votes)
 Biden (D): 49.05% (3,224,947 votes)
@@ -1191,7 +1191,7 @@ Trump Margin: +48,856 (-4,377)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-06T02:05:01Z,Biden,1528319,0.5006,"AZ Presidential Election Results
+AZ,2020-11-06T02:05:01Z,Biden,1528319,"AZ Presidential Election Results
 
 Biden (D): 50.06% (1,528,319 votes)
 Trump (R): 48.54% (1,482,062 votes)
@@ -1200,7 +1200,7 @@ Biden Margin: +46,257 (-11,587)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T02:05:01Z,Trump,1482062,0.4854,"AZ Presidential Election Results
+AZ,2020-11-06T02:05:01Z,Trump,1482062,"AZ Presidential Election Results
 
 Biden (D): 50.06% (1,528,319 votes)
 Trump (R): 48.54% (1,482,062 votes)
@@ -1209,7 +1209,7 @@ Biden Margin: +46,257 (-11,587)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-06T02:00:12Z,Trump,2447015,0.4941,"GA Presidential Election Results
+GA,2020-11-06T02:00:12Z,Trump,2447015,"GA Presidential Election Results
 
 Trump (R): 49.41% (2,447,015 votes)
 Biden (D): 49.36% (2,444,518 votes)
@@ -1218,7 +1218,7 @@ Trump Margin: +2,497 (-1,138)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-06T02:00:12Z,Biden,2444518,0.4936,"GA Presidential Election Results
+GA,2020-11-06T02:00:12Z,Biden,2444518,"GA Presidential Election Results
 
 Trump (R): 49.41% (2,447,015 votes)
 Biden (D): 49.36% (2,444,518 votes)
@@ -1227,7 +1227,7 @@ Trump Margin: +2,497 (-1,138)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-06T01:36:43Z,Trump,3270287,0.49829999999999997,"PA Presidential Election Results
+PA,2020-11-06T01:36:43Z,Trump,3270287,"PA Presidential Election Results
 
 Trump (R): 49.83% (3,270,287 votes)
 Biden (D): 49.02% (3,217,064 votes)
@@ -1236,7 +1236,7 @@ Trump Margin: +53,233 (-11,006)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T01:36:43Z,Biden,3217064,0.4902,"PA Presidential Election Results
+PA,2020-11-06T01:36:43Z,Biden,3217064,"PA Presidential Election Results
 
 Trump (R): 49.83% (3,270,287 votes)
 Biden (D): 49.02% (3,217,064 votes)
@@ -1245,7 +1245,7 @@ Trump Margin: +53,233 (-11,006)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-06T01:25:55Z,Biden,1496142,0.5028,"AZ Presidential Election Results
+AZ,2020-11-06T01:25:55Z,Biden,1496142,"AZ Presidential Election Results
 
 Biden (D): 50.28% (1,496,142 votes)
 Trump (R): 48.33% (1,438,298 votes)
@@ -1254,7 +1254,7 @@ Biden Margin: +57,844 (+1,297)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T01:25:55Z,Trump,1438298,0.4833,"AZ Presidential Election Results
+AZ,2020-11-06T01:25:55Z,Trump,1438298,"AZ Presidential Election Results
 
 Biden (D): 50.28% (1,496,142 votes)
 Trump (R): 48.33% (1,438,298 votes)
@@ -1263,7 +1263,7 @@ Biden Margin: +57,844 (+1,297)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T01:03:12Z,Biden,1494263,0.5025999999999999,"AZ Presidential Election Results
+AZ,2020-11-06T01:03:12Z,Biden,1494263,"AZ Presidential Election Results
 
 Biden (D): 50.26% (1,494,263 votes)
 Trump (R): 48.35% (1,437,716 votes)
@@ -1272,7 +1272,7 @@ Biden Margin: +56,547 (-4,922)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T01:03:12Z,Trump,1437716,0.48350000000000004,"AZ Presidential Election Results
+AZ,2020-11-06T01:03:12Z,Trump,1437716,"AZ Presidential Election Results
 
 Biden (D): 50.26% (1,494,263 votes)
 Trump (R): 48.35% (1,437,716 votes)
@@ -1281,7 +1281,7 @@ Biden Margin: +56,547 (-4,922)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T00:19:23Z,Biden,1476693,0.5036,"AZ Presidential Election Results
+AZ,2020-11-06T00:19:23Z,Biden,1476693,"AZ Presidential Election Results
 
 Biden (D): 50.36% (1,476,693 votes)
 Trump (R): 48.27% (1,415,224 votes)
@@ -1290,7 +1290,7 @@ Biden Margin: +61,469 (-3,710)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-06T00:19:23Z,Trump,1415224,0.4827,"AZ Presidential Election Results
+AZ,2020-11-06T00:19:23Z,Trump,1415224,"AZ Presidential Election Results
 
 Biden (D): 50.36% (1,476,693 votes)
 Trump (R): 48.27% (1,415,224 votes)
@@ -1299,7 +1299,7 @@ Biden Margin: +61,469 (-3,710)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-06T00:00:40Z,Trump,3263958,0.49920000000000003,"PA Presidential Election Results
+PA,2020-11-06T00:00:40Z,Trump,3263958,"PA Presidential Election Results
 
 Trump (R): 49.92% (3,263,958 votes)
 Biden (D): 48.93% (3,199,719 votes)
@@ -1308,7 +1308,7 @@ Trump Margin: +64,239 (-9,372)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-06T00:00:40Z,Biden,3199719,0.4893,"PA Presidential Election Results
+PA,2020-11-06T00:00:40Z,Biden,3199719,"PA Presidential Election Results
 
 Trump (R): 49.92% (3,263,958 votes)
 Biden (D): 48.93% (3,199,719 votes)
@@ -1317,7 +1317,7 @@ Trump Margin: +64,239 (-9,372)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T23:57:27Z,Trump,2445539,0.49420000000000003,"GA Presidential Election Results
+GA,2020-11-05T23:57:27Z,Trump,2445539,"GA Presidential Election Results
 
 Trump (R): 49.42% (2,445,539 votes)
 Biden (D): 49.35% (2,441,904 votes)
@@ -1326,7 +1326,7 @@ Trump Margin: +3,635 (-5890)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T23:57:27Z,Biden,2441904,0.4935,"GA Presidential Election Results
+GA,2020-11-05T23:57:27Z,Biden,2441904,"GA Presidential Election Results
 
 Trump (R): 49.42% (2,445,539 votes)
 Biden (D): 49.35% (2,441,904 votes)
@@ -1335,7 +1335,7 @@ Trump Margin: +3,635 (-5890)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T23:54:21Z,Trump,3262491,0.4999,"PA Presidential Election Results
+PA,2020-11-05T23:54:21Z,Trump,3262491,"PA Presidential Election Results
 
 Trump (R): 49.99% (3,262,491 votes)
 Biden (D): 48.86% (3,188,880 votes)
@@ -1344,7 +1344,7 @@ Trump Margin: +73,611 (-1,818)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T23:54:21Z,Biden,3188880,0.4886,"PA Presidential Election Results
+PA,2020-11-05T23:54:21Z,Biden,3188880,"PA Presidential Election Results
 
 Trump (R): 49.99% (3,262,491 votes)
 Biden (D): 48.86% (3,188,880 votes)
@@ -1353,7 +1353,7 @@ Trump Margin: +73,611 (-1,818)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T23:21:32Z,Trump,3260810,0.5,"PA Presidential Election Results
+PA,2020-11-05T23:21:32Z,Trump,3260810,"PA Presidential Election Results
 
 Trump (R): 50.0% (3,260,810 votes)
 Biden (D): 48.85% (3,185,381 votes)
@@ -1362,7 +1362,7 @@ Trump Margin: +75,429 (-2,887)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T23:21:32Z,Biden,3185381,0.4885,"PA Presidential Election Results
+PA,2020-11-05T23:21:32Z,Biden,3185381,"PA Presidential Election Results
 
 Trump (R): 50.0% (3,260,810 votes)
 Biden (D): 48.85% (3,185,381 votes)
@@ -1371,7 +1371,7 @@ Trump Margin: +75,429 (-2,887)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-05T23:09:46Z,Biden,1475680,0.5043,"AZ Presidential Election Results
+AZ,2020-11-05T23:09:46Z,Biden,1475680,"AZ Presidential Election Results
 
 Biden (D): 50.43% (1,475,680 votes)
 Trump (R): 48.2% (1,410,501 votes)
@@ -1380,7 +1380,7 @@ Biden Margin: +65,179 (-2,919)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T23:09:46Z,Trump,1410501,0.48200000000000004,"AZ Presidential Election Results
+AZ,2020-11-05T23:09:46Z,Trump,1410501,"AZ Presidential Election Results
 
 Biden (D): 50.43% (1,475,680 votes)
 Trump (R): 48.2% (1,410,501 votes)
@@ -1389,7 +1389,7 @@ Biden Margin: +65,179 (-2,919)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T23:04:24Z,Biden,1473176,0.5047999999999999,"AZ Presidential Election Results
+AZ,2020-11-05T23:04:24Z,Biden,1473176,"AZ Presidential Election Results
 
 Biden (D): 50.48% (1,473,176 votes)
 Trump (R): 48.15% (1,405,078 votes)
@@ -1398,7 +1398,7 @@ Biden Margin: +68,098
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T23:04:24Z,Trump,1405078,0.4815,"AZ Presidential Election Results
+AZ,2020-11-05T23:04:24Z,Trump,1405078,"AZ Presidential Election Results
 
 Biden (D): 50.48% (1,473,176 votes)
 Trump (R): 48.15% (1,405,078 votes)
@@ -1407,7 +1407,7 @@ Biden Margin: +68,098
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-05T22:59:13Z,Trump,3260068,0.5003,"PA Presidential Election Results
+PA,2020-11-05T22:59:13Z,Trump,3260068,"PA Presidential Election Results
 
 Trump (R): 50.03% (3,260,068 votes)
 Biden (D): 48.82% (3,181,752 votes)
@@ -1416,7 +1416,7 @@ Trump Margin: 78,316 (-11,806)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T22:59:13Z,Biden,3181752,0.4882,"PA Presidential Election Results
+PA,2020-11-05T22:59:13Z,Biden,3181752,"PA Presidential Election Results
 
 Trump (R): 50.03% (3,260,068 votes)
 Biden (D): 48.82% (3,181,752 votes)
@@ -1425,7 +1425,7 @@ Trump Margin: 78,316 (-11,806)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T22:54:46Z,Trump,3250940,0.5012,"PA Presidential Election Results
+PA,2020-11-05T22:54:46Z,Trump,3250940,"PA Presidential Election Results
 
 Trump (R): 50.12% (3,250,940 votes)
 Biden (D): 48.73% (3,160,818 votes)
@@ -1434,7 +1434,7 @@ Trump Margin: +90,122 (-422)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T22:54:46Z,Biden,3160818,0.48729999999999996,"PA Presidential Election Results
+PA,2020-11-05T22:54:46Z,Biden,3160818,"PA Presidential Election Results
 
 Trump (R): 50.12% (3,250,940 votes)
 Biden (D): 48.73% (3,160,818 votes)
@@ -1443,7 +1443,7 @@ Trump Margin: +90,122 (-422)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T21:56:52Z,Trump,3247816,0.5012,"PA Presidential Election Results
+PA,2020-11-05T21:56:52Z,Trump,3247816,"PA Presidential Election Results
 
 Trump (R): 50.12% (3,247,816 votes)
 Biden (D): 48.73% (3,157,272 votes)
@@ -1452,7 +1452,7 @@ Trump Margin: +90,544 (-5,118)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T21:56:52Z,Biden,3157272,0.48729999999999996,"PA Presidential Election Results
+PA,2020-11-05T21:56:52Z,Biden,3157272,"PA Presidential Election Results
 
 Trump (R): 50.12% (3,247,816 votes)
 Biden (D): 48.73% (3,157,272 votes)
@@ -1461,7 +1461,7 @@ Trump Margin: +90,544 (-5,118)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T21:51:45Z,Trump,2439678,0.49479999999999996,"GA Presidential Election Results
+GA,2020-11-05T21:51:45Z,Trump,2439678,"GA Presidential Election Results
 
 Trump (R): 49.48% (2,439,678 votes)
 Biden (D): 49.29% (2,430,153 votes)
@@ -1471,7 +1471,7 @@ Trump Margin: +9,525 (-3,246)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T21:51:45Z,Biden,2430153,0.4929,"GA Presidential Election Results
+GA,2020-11-05T21:51:45Z,Biden,2430153,"GA Presidential Election Results
 
 Trump (R): 49.48% (2,439,678 votes)
 Biden (D): 49.29% (2,430,153 votes)
@@ -1481,7 +1481,7 @@ Trump Margin: +9,525 (-3,246)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T21:49:18Z,Trump,2438216,0.4951,"GA Presidential Election Results
+GA,2020-11-05T21:49:18Z,Trump,2438216,"GA Presidential Election Results
 
 Trump (R): 49.51% (2,438,216 votes)
 Biden (D): 49.25% (2,425,445 votes)
@@ -1490,7 +1490,7 @@ Trump Margin: +12,771
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T21:49:18Z,Biden,2425445,0.4925,"GA Presidential Election Results
+GA,2020-11-05T21:49:18Z,Biden,2425445,"GA Presidential Election Results
 
 Trump (R): 49.51% (2,438,216 votes)
 Biden (D): 49.25% (2,425,445 votes)
@@ -1499,7 +1499,7 @@ Trump Margin: +12,771
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T21:45:49Z,Trump,3243424,0.5017,"PA Presidential Election Results
+PA,2020-11-05T21:45:49Z,Trump,3243424,"PA Presidential Election Results
  
 Trump (R): 50.17% (3,243,424 votes)
 Biden (D): 48.69% (3,147,762 votes)
@@ -1508,7 +1508,7 @@ Trump Margin: +95,662 (-2,240)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T21:45:49Z,Biden,3147762,0.4869,"PA Presidential Election Results
+PA,2020-11-05T21:45:49Z,Biden,3147762,"PA Presidential Election Results
  
 Trump (R): 50.17% (3,243,424 votes)
 Biden (D): 48.69% (3,147,762 votes)
@@ -1517,7 +1517,7 @@ Trump Margin: +95,662 (-2,240)
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T21:13:03Z,Trump,3240328,0.5018,"PA Presidential Election Results
+PA,2020-11-05T21:13:03Z,Trump,3240328,"PA Presidential Election Results
  
 Trump (R): 50.18% (3,240,328 votes)
 Biden (D): 48.67% (3,142,426 votes)
@@ -1526,7 +1526,7 @@ Trump Margin: +97,902
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T21:13:03Z,Biden,3142426,0.4867,"PA Presidential Election Results
+PA,2020-11-05T21:13:03Z,Biden,3142426,"PA Presidential Election Results
  
 Trump (R): 50.18% (3,240,328 votes)
 Biden (D): 48.67% (3,142,426 votes)
@@ -1535,7 +1535,7 @@ Trump Margin: +97,902
 Estimated: &gt; 95% votes in
  
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-05T20:56:46Z,Biden,1471024,0.5047999999999999,"AZ Presidential Election Results
+AZ,2020-11-05T20:56:46Z,Biden,1471024,"AZ Presidential Election Results
 
 Biden (D): 50.48% (1,471,024 votes)
 Trump (R): 48.15% (1,403,118 votes)
@@ -1543,7 +1543,7 @@ Trump (R): 48.15% (1,403,118 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T20:56:46Z,Trump,1403118,0.4815,"AZ Presidential Election Results
+AZ,2020-11-05T20:56:46Z,Trump,1403118,"AZ Presidential Election Results
 
 Biden (D): 50.48% (1,471,024 votes)
 Trump (R): 48.15% (1,403,118 votes)
@@ -1551,7 +1551,7 @@ Trump (R): 48.15% (1,403,118 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-05T20:31:35Z,Trump,2438181,0.4951,"GA Presidential Election Results
+GA,2020-11-05T20:31:35Z,Trump,2438181,"GA Presidential Election Results
 
 Trump (R): 49.51% (2,438,181 votes)
 Biden (D): 49.25% (2,425,417 votes)
@@ -1559,7 +1559,7 @@ Biden (D): 49.25% (2,425,417 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T20:31:35Z,Biden,2425417,0.4925,"GA Presidential Election Results
+GA,2020-11-05T20:31:35Z,Biden,2425417,"GA Presidential Election Results
 
 Trump (R): 49.51% (2,438,181 votes)
 Biden (D): 49.25% (2,425,417 votes)
@@ -1567,7 +1567,7 @@ Biden (D): 49.25% (2,425,417 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T20:27:59Z,Trump,3236698,0.5022,"PA Presidential Election Results
+PA,2020-11-05T20:27:59Z,Trump,3236698,"PA Presidential Election Results
 
 Trump (R): 50.22% (3,236,698 votes)
 Biden (D): 48.63% (3,134,074 votes)
@@ -1575,7 +1575,7 @@ Biden (D): 48.63% (3,134,074 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T20:27:59Z,Biden,3134074,0.4863,"PA Presidential Election Results
+PA,2020-11-05T20:27:59Z,Biden,3134074,"PA Presidential Election Results
 
 Trump (R): 50.22% (3,236,698 votes)
 Biden (D): 48.63% (3,134,074 votes)
@@ -1583,7 +1583,7 @@ Biden (D): 48.63% (3,134,074 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T19:44:55Z,Trump,3233604,0.5029,"PA Presidential Election Results
+PA,2020-11-05T19:44:55Z,Trump,3233604,"PA Presidential Election Results
 
 Trump (R): 50.29% (3,233,604 votes)
 Biden (D): 48.56% (3,122,188 votes)
@@ -1591,7 +1591,7 @@ Biden (D): 48.56% (3,122,188 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T19:44:55Z,Biden,3122188,0.48560000000000003,"PA Presidential Election Results
+PA,2020-11-05T19:44:55Z,Biden,3122188,"PA Presidential Election Results
 
 Trump (R): 50.29% (3,233,604 votes)
 Biden (D): 48.56% (3,122,188 votes)
@@ -1599,7 +1599,7 @@ Biden (D): 48.56% (3,122,188 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T19:25:08Z,Trump,3231161,0.5031,"PA Presidential Election Results
+PA,2020-11-05T19:25:08Z,Trump,3231161,"PA Presidential Election Results
 
 Trump (R): 50.31% (3,231,161 votes)
 Biden (D): 48.54% (3,117,148 votes)
@@ -1607,7 +1607,7 @@ Biden (D): 48.54% (3,117,148 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T19:25:08Z,Biden,3117148,0.4854,"PA Presidential Election Results
+PA,2020-11-05T19:25:08Z,Biden,3117148,"PA Presidential Election Results
 
 Trump (R): 50.31% (3,231,161 votes)
 Biden (D): 48.54% (3,117,148 votes)
@@ -1615,7 +1615,7 @@ Biden (D): 48.54% (3,117,148 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T18:18:35Z,Trump,3230001,0.5032,"PA Presidential Election Results
+PA,2020-11-05T18:18:35Z,Trump,3230001,"PA Presidential Election Results
 
 Trump (R): 50.32% (3,230,001 votes)
 Biden (D): 48.53% (3,115,260 votes)
@@ -1623,7 +1623,7 @@ Biden (D): 48.53% (3,115,260 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T18:18:35Z,Biden,3115260,0.4853,"PA Presidential Election Results
+PA,2020-11-05T18:18:35Z,Biden,3115260,"PA Presidential Election Results
 
 Trump (R): 50.32% (3,230,001 votes)
 Biden (D): 48.53% (3,115,260 votes)
@@ -1631,7 +1631,7 @@ Biden (D): 48.53% (3,115,260 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T17:41:16Z,Trump,2436006,0.49520000000000003,"GA Presidential Election Results
+GA,2020-11-05T17:41:16Z,Trump,2436006,"GA Presidential Election Results
 
 Trump (R): 49.52% (2,436,006 votes)
 Biden (D): 49.25% (2,422,467 votes)
@@ -1639,7 +1639,7 @@ Biden (D): 49.25% (2,422,467 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T17:41:16Z,Biden,2422467,0.4925,"GA Presidential Election Results
+GA,2020-11-05T17:41:16Z,Biden,2422467,"GA Presidential Election Results
 
 Trump (R): 49.52% (2,436,006 votes)
 Biden (D): 49.25% (2,422,467 votes)
@@ -1647,31 +1647,31 @@ Biden (D): 49.25% (2,422,467 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-NV,2020-11-05T17:36:04Z,Biden,603807,0.49450000000000005,"NV Presidential Election Results
+NV,2020-11-05T17:36:04Z,Biden,603807,"NV Presidential Election Results
 
 Biden (D): 49.45% (603,807 votes)
 Trump (R): 48.48% (592,020 votes)
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-05T17:36:04Z,Trump,592020,0.48479999999999995,"NV Presidential Election Results
+NV,2020-11-05T17:36:04Z,Trump,592020,"NV Presidential Election Results
 
 Biden (D): 49.45% (603,807 votes)
 Trump (R): 48.48% (592,020 votes)
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-05T17:13:48Z,Biden,597353,0.495,"NV Presidential Election Results
+NV,2020-11-05T17:13:48Z,Biden,597353,"NV Presidential Election Results
 
 Biden (D): 49.5% (597,353 votes)
 Trump (R): 48.5% (585,311 votes)
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-05T17:13:48Z,Trump,585311,0.485,"NV Presidential Election Results
+NV,2020-11-05T17:13:48Z,Trump,585311,"NV Presidential Election Results
 
 Biden (D): 49.5% (597,353 votes)
 Trump (R): 48.5% (585,311 votes)
 
 More results here: https://t.co/Skqy3QUPov"
-PA,2020-11-05T17:09:55Z,Trump,3228002,0.5033,"PA Presidential Election Results
+PA,2020-11-05T17:09:55Z,Trump,3228002,"PA Presidential Election Results
 
 Trump (R): 50.33% (3,228,002 votes)
 Biden (D): 48.52% (3,111,776 votes)
@@ -1679,7 +1679,7 @@ Biden (D): 48.52% (3,111,776 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T17:09:55Z,Biden,3111776,0.4852,"PA Presidential Election Results
+PA,2020-11-05T17:09:55Z,Biden,3111776,"PA Presidential Election Results
 
 Trump (R): 50.33% (3,228,002 votes)
 Biden (D): 48.52% (3,111,776 votes)
@@ -1687,7 +1687,7 @@ Biden (D): 48.52% (3,111,776 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T16:35:03Z,Trump,2434354,0.4953,"GA Presidential Election Results
+GA,2020-11-05T16:35:03Z,Trump,2434354,"GA Presidential Election Results
 
 Trump (R): 49.53% (2,434,354 votes)
 Biden (D): 49.23% (2,419,589 votes)
@@ -1695,7 +1695,7 @@ Biden (D): 49.23% (2,419,589 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T16:35:03Z,Biden,2419589,0.49229999999999996,"GA Presidential Election Results
+GA,2020-11-05T16:35:03Z,Biden,2419589,"GA Presidential Election Results
 
 Trump (R): 49.53% (2,434,354 votes)
 Biden (D): 49.23% (2,419,589 votes)
@@ -1703,7 +1703,7 @@ Biden (D): 49.23% (2,419,589 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T15:16:58Z,Trump,3224144,0.5049,"PA Presidential Election Results
+PA,2020-11-05T15:16:58Z,Trump,3224144,"PA Presidential Election Results
 
 Trump (R): 50.49% (3,224,144 votes)
 Biden (D): 48.36% (3,088,487 votes)
@@ -1711,7 +1711,7 @@ Biden (D): 48.36% (3,088,487 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T15:16:58Z,Biden,3088487,0.4836,"PA Presidential Election Results
+PA,2020-11-05T15:16:58Z,Biden,3088487,"PA Presidential Election Results
 
 Trump (R): 50.49% (3,224,144 votes)
 Biden (D): 48.36% (3,088,487 votes)
@@ -1719,19 +1719,19 @@ Biden (D): 48.36% (3,088,487 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T15:11:03Z,Trump,2432552,0.49570000000000003,"GA Presidential Election Results
+GA,2020-11-05T15:11:03Z,Trump,2432552,"GA Presidential Election Results
 
 Trump (R): 49.57% (2,432,552 votes)
 Biden (D): 49.20% (2,413,966 votes)
 
 Estimated: &gt; 99% votes in"
-GA,2020-11-05T15:11:03Z,Biden,2413966,0.49200000000000005,"GA Presidential Election Results
+GA,2020-11-05T15:11:03Z,Biden,2413966,"GA Presidential Election Results
 
 Trump (R): 49.57% (2,432,552 votes)
 Biden (D): 49.20% (2,413,966 votes)
 
 Estimated: &gt; 99% votes in"
-AZ,2020-11-05T14:27:59Z,Biden,1469341,0.5,"AZ Presidential Election Results
+AZ,2020-11-05T14:27:59Z,Biden,1469341,"AZ Presidential Election Results
 
 Biden (D): 50% (1,469,341 votes)
 Trump (R): 48% (1,400,951 votes)
@@ -1739,7 +1739,7 @@ Trump (R): 48% (1,400,951 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T14:27:59Z,Trump,1400951,0.48,"AZ Presidential Election Results
+AZ,2020-11-05T14:27:59Z,Trump,1400951,"AZ Presidential Election Results
 
 Biden (D): 50% (1,469,341 votes)
 Trump (R): 48% (1,400,951 votes)
@@ -1747,7 +1747,7 @@ Trump (R): 48% (1,400,951 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-PA,2020-11-05T14:25:39Z,Trump,3222947,0.5,"PA Presidential Election Results
+PA,2020-11-05T14:25:39Z,Trump,3222947,"PA Presidential Election Results
 
 Trump (R): 50% (3,222,947 votes)
 Biden (D): 48% (3,087,296 votes)
@@ -1755,7 +1755,7 @@ Biden (D): 48% (3,087,296 votes)
 Estimated: 94.1-98.9% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T14:25:39Z,Biden,3087296,0.48,"PA Presidential Election Results
+PA,2020-11-05T14:25:39Z,Biden,3087296,"PA Presidential Election Results
 
 Trump (R): 50% (3,222,947 votes)
 Biden (D): 48% (3,087,296 votes)
@@ -1763,7 +1763,7 @@ Biden (D): 48% (3,087,296 votes)
 Estimated: 94.1-98.9% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-NV,2020-11-05T14:22:19Z,Biden,588252,0.49,"NV Presidential Election Results
+NV,2020-11-05T14:22:19Z,Biden,588252,"NV Presidential Election Results
 
 Biden (D): 49% (588,252 votes)
 Trump (R): 49% (580,605 votes)
@@ -1771,7 +1771,7 @@ Trump (R): 49% (580,605 votes)
 Estimated: 87.2-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-05T14:22:19Z,Trump,580605,0.49,"NV Presidential Election Results
+NV,2020-11-05T14:22:19Z,Trump,580605,"NV Presidential Election Results
 
 Biden (D): 49% (588,252 votes)
 Trump (R): 49% (580,605 votes)
@@ -1779,7 +1779,7 @@ Trump (R): 49% (580,605 votes)
 Estimated: 87.2-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-GA,2020-11-05T14:19:23Z,Trump,2432426,0.5,"GA Presidential Election Results
+GA,2020-11-05T14:19:23Z,Trump,2432426,"GA Presidential Election Results
 
 Trump (R): 50% (2,432,426 votes)
 Biden (D): 49% (2,413,836 votes)
@@ -1787,7 +1787,7 @@ Biden (D): 49% (2,413,836 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T14:19:23Z,Biden,2413836,0.49,"GA Presidential Election Results
+GA,2020-11-05T14:19:23Z,Biden,2413836,"GA Presidential Election Results
 
 Trump (R): 50% (2,432,426 votes)
 Biden (D): 49% (2,413,836 votes)
@@ -1795,19 +1795,19 @@ Biden (D): 49% (2,413,836 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-AZ,2020-11-05T07:57:20Z,Biden,1469341,0.5049,"AZ Presidential Election Results
+AZ,2020-11-05T07:57:20Z,Biden,1469341,"AZ Presidential Election Results
 
 Biden (D): 50.49% (1,469,341 votes)
 Trump (R): 48.14% (1,400,951 votes)
 
 More results here:  https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T07:57:20Z,Trump,1400951,0.4814,"AZ Presidential Election Results
+AZ,2020-11-05T07:57:20Z,Trump,1400951,"AZ Presidential Election Results
 
 Biden (D): 50.49% (1,469,341 votes)
 Trump (R): 48.14% (1,400,951 votes)
 
 More results here:  https://t.co/7CxbLsQ3gY"
-PA,2020-11-05T06:46:18Z,Trump,3220597,0.5063,"PA Presidential Election Results
+PA,2020-11-05T06:46:18Z,Trump,3220597,"PA Presidential Election Results
 
 Trump (R): 50.63% (3,220,597 votes)
 Biden (D): 48.22% (3,067,410 votes)
@@ -1815,7 +1815,7 @@ Biden (D): 48.22% (3,067,410 votes)
 Estimated: 91-99% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T06:46:18Z,Biden,3067410,0.48219999999999996,"PA Presidential Election Results
+PA,2020-11-05T06:46:18Z,Biden,3067410,"PA Presidential Election Results
 
 Trump (R): 50.63% (3,220,597 votes)
 Biden (D): 48.22% (3,067,410 votes)
@@ -1823,43 +1823,43 @@ Biden (D): 48.22% (3,067,410 votes)
 Estimated: 91-99% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T06:19:40Z,Trump,2429783,0.4962,"GA Presidential Election Results
+GA,2020-11-05T06:19:40Z,Trump,2429783,"GA Presidential Election Results
 
 Trump (R): 49.62% (2,429,783 votes)
 Biden (D): 49.15% (2,406,774 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T06:19:40Z,Biden,2406774,0.4915,"GA Presidential Election Results
+GA,2020-11-05T06:19:40Z,Biden,2406774,"GA Presidential Election Results
 
 Trump (R): 49.62% (2,429,783 votes)
 Biden (D): 49.15% (2,406,774 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T05:29:34Z,Trump,2428517,0.4965,"GA Presidential Election Results
+GA,2020-11-05T05:29:34Z,Trump,2428517,"GA Presidential Election Results
 
 Trump (R): 49.65% (2,428,517 votes)
 Biden (D): 49.12% (2,402,475 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T05:29:34Z,Biden,2402475,0.49119999999999997,"GA Presidential Election Results
+GA,2020-11-05T05:29:34Z,Biden,2402475,"GA Presidential Election Results
 
 Trump (R): 49.65% (2,428,517 votes)
 Biden (D): 49.12% (2,402,475 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T04:26:03Z,Trump,2427852,0.4968,"GA Presidential Election Results
+GA,2020-11-05T04:26:03Z,Trump,2427852,"GA Presidential Election Results
 
 Trump (R): 49.68% (2,427,852 votes)
 Biden (D): 49.09% (2,398,889 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T04:26:03Z,Biden,2398889,0.49090000000000006,"GA Presidential Election Results
+GA,2020-11-05T04:26:03Z,Biden,2398889,"GA Presidential Election Results
 
 Trump (R): 49.68% (2,427,852 votes)
 Biden (D): 49.09% (2,398,889 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T04:06:49Z,Trump,3212786,0.5074000000000001,"PA Presidential Election Results
+PA,2020-11-05T04:06:49Z,Trump,3212786,"PA Presidential Election Results
 
 Trump (R): 50.74% (3,212,786 votes)
 Biden (D): 48.11% (3,046,640 votes)
@@ -1867,7 +1867,7 @@ Biden (D): 48.11% (3,046,640 votes)
 Estimated: 91-98% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T04:06:49Z,Biden,3046640,0.48109999999999997,"PA Presidential Election Results
+PA,2020-11-05T04:06:49Z,Biden,3046640,"PA Presidential Election Results
 
 Trump (R): 50.74% (3,212,786 votes)
 Biden (D): 48.11% (3,046,640 votes)
@@ -1875,7 +1875,7 @@ Biden (D): 48.11% (3,046,640 votes)
 Estimated: 91-98% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T03:38:37Z,Trump,3209906,0.5075,"PA Presidential Election Results
+PA,2020-11-05T03:38:37Z,Trump,3209906,"PA Presidential Election Results
 
 Trump (R): 50.75% (3,209,906 votes)
 Biden (D): 48.10% (3,042,106 votes)
@@ -1883,7 +1883,7 @@ Biden (D): 48.10% (3,042,106 votes)
 Estimated: 91-98% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T03:38:37Z,Biden,3042106,0.48100000000000004,"PA Presidential Election Results
+PA,2020-11-05T03:38:37Z,Biden,3042106,"PA Presidential Election Results
 
 Trump (R): 50.75% (3,209,906 votes)
 Biden (D): 48.10% (3,042,106 votes)
@@ -1891,19 +1891,19 @@ Biden (D): 48.10% (3,042,106 votes)
 Estimated: 91-98% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T03:23:17Z,Trump,2426877,0.4971,"GA Presidential Election Results
+GA,2020-11-05T03:23:17Z,Trump,2426877,"GA Presidential Election Results
 
 Trump (R): 49.71% (2,426,877 votes)
 Biden (D): 49.06% (2,395,129 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T03:23:17Z,Biden,2395129,0.49060000000000004,"GA Presidential Election Results
+GA,2020-11-05T03:23:17Z,Biden,2395129,"GA Presidential Election Results
 
 Trump (R): 49.71% (2,426,877 votes)
 Biden (D): 49.06% (2,395,129 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T03:22:20Z,Trump,3199799,0.5093,"PA Presidential Election Results
+PA,2020-11-05T03:22:20Z,Trump,3199799,"PA Presidential Election Results
 
 Trump (R): 50.93% (3,199,799 votes)
 Biden (D): 47.92% (3,011,236 votes)
@@ -1911,7 +1911,7 @@ Biden (D): 47.92% (3,011,236 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T03:22:20Z,Biden,3011236,0.4792,"PA Presidential Election Results
+PA,2020-11-05T03:22:20Z,Biden,3011236,"PA Presidential Election Results
 
 Trump (R): 50.93% (3,199,799 votes)
 Biden (D): 47.92% (3,011,236 votes)
@@ -1919,19 +1919,19 @@ Biden (D): 47.92% (3,011,236 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T02:51:49Z,Trump,2424820,0.49729999999999996,"GA Presidential Election Results
+GA,2020-11-05T02:51:49Z,Trump,2424820,"GA Presidential Election Results
 
 Trump (R): 49.73% (2,424,820 votes)
 Biden (D): 49.04% (2,387,498 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T02:51:49Z,Biden,2387498,0.4904,"GA Presidential Election Results
+GA,2020-11-05T02:51:49Z,Biden,2387498,"GA Presidential Election Results
 
 Trump (R): 49.73% (2,424,820 votes)
 Biden (D): 49.04% (2,387,498 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T02:13:43Z,Trump,3198358,0.5096,"PA Presidential Election Results
+PA,2020-11-05T02:13:43Z,Trump,3198358,"PA Presidential Election Results
 
 Trump (R): 50.96% (3,198,358 votes)
 Biden (D): 47.89% (3,006,041 votes)
@@ -1939,7 +1939,7 @@ Biden (D): 47.89% (3,006,041 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T02:13:43Z,Biden,3006041,0.4789,"PA Presidential Election Results
+PA,2020-11-05T02:13:43Z,Biden,3006041,"PA Presidential Election Results
 
 Trump (R): 50.96% (3,198,358 votes)
 Biden (D): 47.89% (3,006,041 votes)
@@ -1947,31 +1947,31 @@ Biden (D): 47.89% (3,006,041 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-AZ,2020-11-05T02:06:03Z,Biden,1444213,0.5071,"AZ Presidential Election Results
+AZ,2020-11-05T02:06:03Z,Biden,1444213,"AZ Presidential Election Results
 
 Biden (D): 50.71% (1,444,213 votes)
 Trump (R): 47.93% (1,365,040 votes)
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-05T02:06:03Z,Trump,1365040,0.4793,"AZ Presidential Election Results
+AZ,2020-11-05T02:06:03Z,Trump,1365040,"AZ Presidential Election Results
 
 Biden (D): 50.71% (1,444,213 votes)
 Trump (R): 47.93% (1,365,040 votes)
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-05T01:26:54Z,Trump,2424317,0.4978,"GA Presidential Election Results
+GA,2020-11-05T01:26:54Z,Trump,2424317,"GA Presidential Election Results
 
 Trump (R): 49.78% (2,424,317 votes)
 Biden (D): 48.99% (2,386,174 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T01:26:54Z,Biden,2386174,0.4899,"GA Presidential Election Results
+GA,2020-11-05T01:26:54Z,Biden,2386174,"GA Presidential Election Results
 
 Trump (R): 49.78% (2,424,317 votes)
 Biden (D): 48.99% (2,386,174 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T01:26:06Z,Trump,3192135,0.5102,"PA Presidential Election Results
+PA,2020-11-05T01:26:06Z,Trump,3192135,"PA Presidential Election Results
 
 Trump (R): 51.02% (3,192,135 votes)
 Biden (D): 47.83% (2,992,661 votes)
@@ -1979,7 +1979,7 @@ Biden (D): 47.83% (2,992,661 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T01:26:06Z,Biden,2992661,0.4783,"PA Presidential Election Results
+PA,2020-11-05T01:26:06Z,Biden,2992661,"PA Presidential Election Results
 
 Trump (R): 51.02% (3,192,135 votes)
 Biden (D): 47.83% (2,992,661 votes)
@@ -1987,7 +1987,7 @@ Biden (D): 47.83% (2,992,661 votes)
 Estimated: 90-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T00:59:32Z,Trump,3187941,0.5109,"PA Presidential Election Results
+PA,2020-11-05T00:59:32Z,Trump,3187941,"PA Presidential Election Results
 
 Trump (R): 51.09% (3,187,941 votes)
 Biden (D): 47.76% (2,980,639 votes)
@@ -1995,7 +1995,7 @@ Biden (D): 47.76% (2,980,639 votes)
 Estimated: 89-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T00:59:32Z,Biden,2980639,0.47759999999999997,"PA Presidential Election Results
+PA,2020-11-05T00:59:32Z,Biden,2980639,"PA Presidential Election Results
 
 Trump (R): 51.09% (3,187,941 votes)
 Biden (D): 47.76% (2,980,639 votes)
@@ -2003,19 +2003,19 @@ Biden (D): 47.76% (2,980,639 votes)
 Estimated: 89-97% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T00:57:33Z,Trump,2420229,0.4984,"GA Presidential Election Results
+GA,2020-11-05T00:57:33Z,Trump,2420229,"GA Presidential Election Results
 
 Trump (R): 49.84% (2,420,229 votes)
 Biden (D): 48.93% (2,375,962 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T00:57:33Z,Biden,2375962,0.4893,"GA Presidential Election Results
+GA,2020-11-05T00:57:33Z,Biden,2375962,"GA Presidential Election Results
 
 Trump (R): 49.84% (2,420,229 votes)
 Biden (D): 48.93% (2,375,962 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T00:36:44Z,Trump,3179356,0.5123,"PA Presidential Election Results
+PA,2020-11-05T00:36:44Z,Trump,3179356,"PA Presidential Election Results
 
 Trump (R): 51.23% (3,179,356 votes)
 Biden (D): 47.62% (2,955,209 votes)
@@ -2023,7 +2023,7 @@ Biden (D): 47.62% (2,955,209 votes)
 Estimated: 89-96% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T00:36:44Z,Biden,2955209,0.47619999999999996,"PA Presidential Election Results
+PA,2020-11-05T00:36:44Z,Biden,2955209,"PA Presidential Election Results
 
 Trump (R): 51.23% (3,179,356 votes)
 Biden (D): 47.62% (2,955,209 votes)
@@ -2031,19 +2031,19 @@ Biden (D): 47.62% (2,955,209 votes)
 Estimated: 89-96% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-05T00:13:51Z,Trump,2415857,0.4986,"GA Presidential Election Results
+GA,2020-11-05T00:13:51Z,Trump,2415857,"GA Presidential Election Results
 
 Trump (R): 49.86% (2,415,857 votes)
 Biden (D): 48.92% (2,370,420 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-05T00:13:51Z,Biden,2370420,0.4892,"GA Presidential Election Results
+GA,2020-11-05T00:13:51Z,Biden,2370420,"GA Presidential Election Results
 
 Trump (R): 49.86% (2,415,857 votes)
 Biden (D): 48.92% (2,370,420 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-05T00:09:57Z,Trump,3163104,0.5136999999999999,"PA Presidential Election Results
+PA,2020-11-05T00:09:57Z,Trump,3163104,"PA Presidential Election Results
 
 Trump (R): 51.37% (3,163,104 votes)
 Biden (D): 47.48% (2,923,583 votes)
@@ -2051,7 +2051,7 @@ Biden (D): 47.48% (2,923,583 votes)
 Estimated: 88-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-05T00:09:57Z,Biden,2923583,0.47479999999999994,"PA Presidential Election Results
+PA,2020-11-05T00:09:57Z,Biden,2923583,"PA Presidential Election Results
 
 Trump (R): 51.37% (3,163,104 votes)
 Biden (D): 47.48% (2,923,583 votes)
@@ -2059,7 +2059,7 @@ Biden (D): 47.48% (2,923,583 votes)
 Estimated: 88-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T23:46:36Z,Trump,3153988,0.5155,"PA Presidential Election Results
+PA,2020-11-04T23:46:36Z,Trump,3153988,"PA Presidential Election Results
 
 Trump (R): 51.55% (3,153,988 votes)
 Biden (D): 47.30% (2,894,382 votes)
@@ -2067,7 +2067,7 @@ Biden (D): 47.30% (2,894,382 votes)
 Estimated: 88-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T23:46:36Z,Biden,2894382,0.473,"PA Presidential Election Results
+PA,2020-11-04T23:46:36Z,Biden,2894382,"PA Presidential Election Results
 
 Trump (R): 51.55% (3,153,988 votes)
 Biden (D): 47.30% (2,894,382 votes)
@@ -2075,7 +2075,7 @@ Biden (D): 47.30% (2,894,382 votes)
 Estimated: 88-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T23:23:09Z,Trump,3151016,0.5155,"PA Presidential Election Results
+PA,2020-11-04T23:23:09Z,Trump,3151016,"PA Presidential Election Results
 
 Trump (R): 51.55% (3,151,016 votes)
 Biden (D): 47.30% (2,890,890 votes)
@@ -2083,7 +2083,7 @@ Biden (D): 47.30% (2,890,890 votes)
 Estimated: 87-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T23:23:09Z,Biden,2890890,0.473,"PA Presidential Election Results
+PA,2020-11-04T23:23:09Z,Biden,2890890,"PA Presidential Election Results
 
 Trump (R): 51.55% (3,151,016 votes)
 Biden (D): 47.30% (2,890,890 votes)
@@ -2091,19 +2091,19 @@ Biden (D): 47.30% (2,890,890 votes)
 Estimated: 87-95% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-04T23:14:51Z,Trump,2411910,0.4997,"GA Presidential Election Results
+GA,2020-11-04T23:14:51Z,Trump,2411910,"GA Presidential Election Results
 
 Trump (R): 49.97% (2,411,910 votes)
 Biden (D): 48.81% (2,356,318 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T23:14:51Z,Biden,2356318,0.48810000000000003,"GA Presidential Election Results
+GA,2020-11-04T23:14:51Z,Biden,2356318,"GA Presidential Election Results
 
 Trump (R): 49.97% (2,411,910 votes)
 Biden (D): 48.81% (2,356,318 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-04T23:00:20Z,Trump,3140958,0.5171,"PA Presidential Election Results
+PA,2020-11-04T23:00:20Z,Trump,3140958,"PA Presidential Election Results
 
 Trump (R): 51.71% (3,140,958 votes)
 Biden (D): 47.14% (2,863,576 votes)
@@ -2111,7 +2111,7 @@ Biden (D): 47.14% (2,863,576 votes)
 Estimated: 87-94% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T23:00:20Z,Biden,2863576,0.4714,"PA Presidential Election Results
+PA,2020-11-04T23:00:20Z,Biden,2863576,"PA Presidential Election Results
 
 Trump (R): 51.71% (3,140,958 votes)
 Biden (D): 47.14% (2,863,576 votes)
@@ -2119,7 +2119,7 @@ Biden (D): 47.14% (2,863,576 votes)
 Estimated: 87-94% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T22:51:08Z,Trump,3130066,0.5184000000000001,"PA Presidential Election Results
+PA,2020-11-04T22:51:08Z,Trump,3130066,"PA Presidential Election Results
 
 Trump (R): 51.84% (3,130,066 votes)
 Biden (D): 47.01% (2,824,935 votes)
@@ -2127,7 +2127,7 @@ Biden (D): 47.01% (2,824,935 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T22:51:08Z,Biden,2824935,0.47009999999999996,"PA Presidential Election Results
+PA,2020-11-04T22:51:08Z,Biden,2824935,"PA Presidential Election Results
 
 Trump (R): 51.84% (3,130,066 votes)
 Biden (D): 47.01% (2,824,935 votes)
@@ -2135,7 +2135,7 @@ Biden (D): 47.01% (2,824,935 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T22:38:50Z,Trump,3124716,0.5199,"PA Presidential Election Results
+PA,2020-11-04T22:38:50Z,Trump,3124716,"PA Presidential Election Results
 
 Trump (R): 51.99% (3,124,716 votes)
 Biden (D): 46.86% (2,816,623 votes)
@@ -2143,7 +2143,7 @@ Biden (D): 46.86% (2,816,623 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T22:38:50Z,Biden,2816623,0.4686,"PA Presidential Election Results
+PA,2020-11-04T22:38:50Z,Biden,2816623,"PA Presidential Election Results
 
 Trump (R): 51.99% (3,124,716 votes)
 Biden (D): 46.86% (2,816,623 votes)
@@ -2151,43 +2151,43 @@ Biden (D): 46.86% (2,816,623 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-04T22:34:07Z,Trump,2404111,0.5,"GA Presidential Election Results
+GA,2020-11-04T22:34:07Z,Trump,2404111,"GA Presidential Election Results
 
 Trump (R): 50.00% (2,404,111 votes)
 Biden (D): 48.78% (2,345,578 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T22:34:07Z,Biden,2345578,0.4878,"GA Presidential Election Results
+GA,2020-11-04T22:34:07Z,Biden,2345578,"GA Presidential Election Results
 
 Trump (R): 50.00% (2,404,111 votes)
 Biden (D): 48.78% (2,345,578 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T22:15:10Z,Trump,2402137,0.5,"GA Presidential Election Results
+GA,2020-11-04T22:15:10Z,Trump,2402137,"GA Presidential Election Results
 
 Trump (R): 50% (2,402,137 votes)
 Biden (D): 49% (2,338,151 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T22:15:10Z,Biden,2338151,0.49,"GA Presidential Election Results
+GA,2020-11-04T22:15:10Z,Biden,2338151,"GA Presidential Election Results
 
 Trump (R): 50% (2,402,137 votes)
 Biden (D): 49% (2,338,151 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T21:43:16Z,Trump,2400388,0.5,"GA Presidential Election Results
+GA,2020-11-04T21:43:16Z,Trump,2400388,"GA Presidential Election Results
 
 Trump (R): 50% (2,400,388 votes)
 Biden (D): 49% (2,334,333 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T21:43:16Z,Biden,2334333,0.49,"GA Presidential Election Results
+GA,2020-11-04T21:43:16Z,Biden,2334333,"GA Presidential Election Results
 
 Trump (R): 50% (2,400,388 votes)
 Biden (D): 49% (2,334,333 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-04T21:40:50Z,Trump,3120502,0.52,"PA Presidential Election Results
+PA,2020-11-04T21:40:50Z,Trump,3120502,"PA Presidential Election Results
 
 Trump (R): 52% (3,120,502 votes)
 Biden (D): 47% (2,806,905 votes)
@@ -2195,7 +2195,7 @@ Biden (D): 47% (2,806,905 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T21:40:50Z,Biden,2806905,0.47,"PA Presidential Election Results
+PA,2020-11-04T21:40:50Z,Biden,2806905,"PA Presidential Election Results
 
 Trump (R): 52% (3,120,502 votes)
 Biden (D): 47% (2,806,905 votes)
@@ -2203,31 +2203,31 @@ Biden (D): 47% (2,806,905 votes)
 Estimated: 86-93% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-04T21:35:50Z,Trump,2396777,0.5,"GA Presidential Election Results
+GA,2020-11-04T21:35:50Z,Trump,2396777,"GA Presidential Election Results
 
 Trump (R): 50% (2,396,777 votes)
 Biden (D): 49% (2,321,483 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T21:35:50Z,Biden,2321483,0.49,"GA Presidential Election Results
+GA,2020-11-04T21:35:50Z,Biden,2321483,"GA Presidential Election Results
 
 Trump (R): 50% (2,396,777 votes)
 Biden (D): 49% (2,321,483 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T20:25:21Z,Trump,2391491,0.5,"GA Presidential Election Results
+GA,2020-11-04T20:25:21Z,Trump,2391491,"GA Presidential Election Results
 
 Trump (R): 50% (2,391,491 votes)
 Biden (D): 49% (2,314,960 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T20:25:21Z,Biden,2314960,0.49,"GA Presidential Election Results
+GA,2020-11-04T20:25:21Z,Biden,2314960,"GA Presidential Election Results
 
 Trump (R): 50% (2,391,491 votes)
 Biden (D): 49% (2,314,960 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-MI,2020-11-04T18:02:40Z,Biden,2631429,0.5,"MI Presidential Election Results
+MI,2020-11-04T18:02:40Z,Biden,2631429,"MI Presidential Election Results
 
 Biden (D): 50% (2,631,429 votes)
 Trump (R): 49% (2,584,477 votes)
@@ -2235,7 +2235,7 @@ Trump (R): 49% (2,584,477 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T18:02:40Z,Trump,2584477,0.49,"MI Presidential Election Results
+MI,2020-11-04T18:02:40Z,Trump,2584477,"MI Presidential Election Results
 
 Biden (D): 50% (2,631,429 votes)
 Trump (R): 49% (2,584,477 votes)
@@ -2243,7 +2243,7 @@ Trump (R): 49% (2,584,477 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T17:43:36Z,Biden,2623211,0.5,"MI Presidential Election Results
+MI,2020-11-04T17:43:36Z,Biden,2623211,"MI Presidential Election Results
 
 Biden (D): 50% (2,623,211 votes)
 Trump (R): 49% (2,575,468 votes)
@@ -2251,7 +2251,7 @@ Trump (R): 49% (2,575,468 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T17:43:36Z,Trump,2575468,0.49,"MI Presidential Election Results
+MI,2020-11-04T17:43:36Z,Trump,2575468,"MI Presidential Election Results
 
 Biden (D): 50% (2,623,211 votes)
 Trump (R): 49% (2,575,468 votes)
@@ -2259,7 +2259,7 @@ Trump (R): 49% (2,575,468 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T16:50:46Z,Biden,2589268,0.5,"MI Presidential Election Results
+MI,2020-11-04T16:50:46Z,Biden,2589268,"MI Presidential Election Results
 
 Biden (D): 50% (2,589,268 votes)
 Trump (R): 49% (2,557,163 votes)
@@ -2267,7 +2267,7 @@ Trump (R): 49% (2,557,163 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T16:50:46Z,Trump,2557163,0.49,"MI Presidential Election Results
+MI,2020-11-04T16:50:46Z,Trump,2557163,"MI Presidential Election Results
 
 Biden (D): 50% (2,589,268 votes)
 Trump (R): 49% (2,557,163 votes)
@@ -2275,7 +2275,7 @@ Trump (R): 49% (2,557,163 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-WI,2020-11-04T16:21:06Z,Biden,1630279,0.5,"WI Presidential Election Results
+WI,2020-11-04T16:21:06Z,Biden,1630279,"WI Presidential Election Results
 
 Biden (D): 50% (1,630,279 votes)
 Trump (R): 49% (1,609,641 votes)
@@ -2283,7 +2283,7 @@ Trump (R): 49% (1,609,641 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T16:21:06Z,Trump,1609641,0.49,"WI Presidential Election Results
+WI,2020-11-04T16:21:06Z,Trump,1609641,"WI Presidential Election Results
 
 Biden (D): 50% (1,630,279 votes)
 Trump (R): 49% (1,609,641 votes)
@@ -2291,7 +2291,7 @@ Trump (R): 49% (1,609,641 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-MI,2020-11-04T16:16:57Z,Biden,2578854,0.5,"MI Presidential Election Results
+MI,2020-11-04T16:16:57Z,Biden,2578854,"MI Presidential Election Results
 
 Biden (D): 50% (2,578,854 votes)
 Trump (R): 49% (2,545,142 votes)
@@ -2299,7 +2299,7 @@ Trump (R): 49% (2,545,142 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T16:16:57Z,Trump,2545142,0.49,"MI Presidential Election Results
+MI,2020-11-04T16:16:57Z,Trump,2545142,"MI Presidential Election Results
 
 Biden (D): 50% (2,578,854 votes)
 Trump (R): 49% (2,545,142 votes)
@@ -2307,7 +2307,7 @@ Trump (R): 49% (2,545,142 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T14:43:59Z,Biden,2511077,0.4935,"MI Presidential Election Results 
+MI,2020-11-04T14:43:59Z,Biden,2511077,"MI Presidential Election Results 
 
 Biden (D): 49.35% ( 2,511,077 votes)
 Trump (R): 49.09% ( 2,497,873 votes)
@@ -2315,7 +2315,7 @@ Trump (R): 49.09% ( 2,497,873 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/P8otcaDgvj """
-MI,2020-11-04T14:43:59Z,Trump,2497873,0.49090000000000006,"MI Presidential Election Results 
+MI,2020-11-04T14:43:59Z,Trump,2497873,"MI Presidential Election Results 
 
 Biden (D): 49.35% ( 2,511,077 votes)
 Trump (R): 49.09% ( 2,497,873 votes)
@@ -2323,7 +2323,7 @@ Trump (R): 49.09% ( 2,497,873 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/P8otcaDgvj """
-MI,2020-11-04T12:21:30Z,Trump,2345412,0.49200000000000005,"MI Presidential Election Results
+MI,2020-11-04T12:21:30Z,Trump,2345412,"MI Presidential Election Results
 
 Trump (R): 49.2% (2,345,412 votes)
 Biden (D): 49.2% (2,343,266 votes)
@@ -2331,7 +2331,7 @@ Biden (D): 49.2% (2,343,266 votes)
 Estimated:  Estimated 86.4% - 99% in
 
 https://t.co/P8otcaDgvj"
-MI,2020-11-04T12:21:30Z,Biden,2343266,0.49200000000000005,"MI Presidential Election Results
+MI,2020-11-04T12:21:30Z,Biden,2343266,"MI Presidential Election Results
 
 Trump (R): 49.2% (2,345,412 votes)
 Biden (D): 49.2% (2,343,266 votes)
@@ -2339,7 +2339,7 @@ Biden (D): 49.2% (2,343,266 votes)
 Estimated:  Estimated 86.4% - 99% in
 
 https://t.co/P8otcaDgvj"
-WI,2020-11-04T12:07:27Z,Biden,1595122,0.495,"WI Presidential Election Results (with Brown County update)
+WI,2020-11-04T12:07:27Z,Biden,1595122,"WI Presidential Election Results (with Brown County update)
 
 Biden (D): 49.5% (1,595,122 votes)
 Trump (R): 49% (1,578,198 votes)
@@ -2347,7 +2347,7 @@ Trump (R): 49% (1,578,198 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/AOgwtoMxNF"
-WI,2020-11-04T12:07:27Z,Trump,1578198,0.49,"WI Presidential Election Results (with Brown County update)
+WI,2020-11-04T12:07:27Z,Trump,1578198,"WI Presidential Election Results (with Brown County update)
 
 Biden (D): 49.5% (1,595,122 votes)
 Trump (R): 49% (1,578,198 votes)
@@ -2355,7 +2355,7 @@ Trump (R): 49% (1,578,198 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/AOgwtoMxNF"
-MI,2020-11-04T11:18:08Z,Trump,2269549,0.5,"MI Presidential Election Results
+MI,2020-11-04T11:18:08Z,Trump,2269549,"MI Presidential Election Results
 
 Trump (R): 50% (2,269,549 votes)
 Biden (D): 48% (2,201,319 votes)
@@ -2363,7 +2363,7 @@ Biden (D): 48% (2,201,319 votes)
 Estimated: 82-97% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T11:18:08Z,Biden,2201319,0.48,"MI Presidential Election Results
+MI,2020-11-04T11:18:08Z,Biden,2201319,"MI Presidential Election Results
 
 Trump (R): 50% (2,269,549 votes)
 Biden (D): 48% (2,201,319 votes)
@@ -2371,7 +2371,7 @@ Biden (D): 48% (2,201,319 votes)
 Estimated: 82-97% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T11:05:10Z,Trump,2240254,0.51,"MI Presidential Election Results
+MI,2020-11-04T11:05:10Z,Trump,2240254,"MI Presidential Election Results
 
 Trump (R): 51% (2,240,254 votes)
 Biden (D): 47% (2,042,417 votes)
@@ -2379,7 +2379,7 @@ Biden (D): 47% (2,042,417 votes)
 Estimated: 79-93% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T11:05:10Z,Biden,2042417,0.47,"MI Presidential Election Results
+MI,2020-11-04T11:05:10Z,Biden,2042417,"MI Presidential Election Results
 
 Trump (R): 51% (2,240,254 votes)
 Biden (D): 47% (2,042,417 votes)
@@ -2387,7 +2387,7 @@ Biden (D): 47% (2,042,417 votes)
 Estimated: 79-93% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T10:54:24Z,Trump,2223063,0.52,"MI Presidential Election Results
+MI,2020-11-04T10:54:24Z,Trump,2223063,"MI Presidential Election Results
 
 Trump (R): 52% (2,223,063 votes)
 Biden (D): 47% (2,023,654 votes)
@@ -2395,7 +2395,7 @@ Biden (D): 47% (2,023,654 votes)
 Estimated: 78-92% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T10:54:24Z,Biden,2023654,0.47,"MI Presidential Election Results
+MI,2020-11-04T10:54:24Z,Biden,2023654,"MI Presidential Election Results
 
 Trump (R): 52% (2,223,063 votes)
 Biden (D): 47% (2,023,654 votes)
@@ -2403,7 +2403,7 @@ Biden (D): 47% (2,023,654 votes)
 Estimated: 78-92% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T10:43:46Z,Trump,2217540,0.51,"MI Presidential Election Results
+MI,2020-11-04T10:43:46Z,Trump,2217540,"MI Presidential Election Results
 
 Trump (R): 51% (2,217,540 votes)
 Biden (D): 47% (2,019,899 votes)
@@ -2411,7 +2411,7 @@ Biden (D): 47% (2,019,899 votes)
 Estimated: 78-92% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T10:43:46Z,Biden,2019899,0.47,"MI Presidential Election Results
+MI,2020-11-04T10:43:46Z,Biden,2019899,"MI Presidential Election Results
 
 Trump (R): 51% (2,217,540 votes)
 Biden (D): 47% (2,019,899 votes)
@@ -2419,7 +2419,7 @@ Biden (D): 47% (2,019,899 votes)
 Estimated: 78-92% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-NV,2020-11-04T10:40:29Z,Biden,588252,0.49,"NV Presidential Election Results
+NV,2020-11-04T10:40:29Z,Biden,588252,"NV Presidential Election Results
 
 Biden (D): 49% (588,252 votes)
 Trump (R): 49% (580,605 votes)
@@ -2427,7 +2427,7 @@ Trump (R): 49% (580,605 votes)
 Estimated: 87-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-04T10:40:29Z,Trump,580605,0.49,"NV Presidential Election Results
+NV,2020-11-04T10:40:29Z,Trump,580605,"NV Presidential Election Results
 
 Biden (D): 49% (588,252 votes)
 Trump (R): 49% (580,605 votes)
@@ -2435,7 +2435,7 @@ Trump (R): 49% (580,605 votes)
 Estimated: 87-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-04T10:22:51Z,Biden,587775,0.49,"NV Presidential Election Results
+NV,2020-11-04T10:22:51Z,Biden,587775,"NV Presidential Election Results
 
 Biden (D): 49% (587,775 votes)
 Trump (R): 49% (578,498 votes)
@@ -2443,7 +2443,7 @@ Trump (R): 49% (578,498 votes)
 Estimated: 87-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-NV,2020-11-04T10:22:51Z,Trump,578498,0.49,"NV Presidential Election Results
+NV,2020-11-04T10:22:51Z,Trump,578498,"NV Presidential Election Results
 
 Biden (D): 49% (587,775 votes)
 Trump (R): 49% (578,498 votes)
@@ -2451,7 +2451,7 @@ Trump (R): 49% (578,498 votes)
 Estimated: 87-99% votes in
 
 More results here: https://t.co/Skqy3QUPov"
-AZ,2020-11-04T10:09:48Z,Biden,1410977,0.51,"AZ Presidential Election Results
+AZ,2020-11-04T10:09:48Z,Biden,1410977,"AZ Presidential Election Results
 
 Biden (D): 51% (1,410,977 votes)
 Trump (R): 48% (1,317,468 votes)
@@ -2459,7 +2459,7 @@ Trump (R): 48% (1,317,468 votes)
 Estimated: 85-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-04T10:09:48Z,Trump,1317468,0.48,"AZ Presidential Election Results
+AZ,2020-11-04T10:09:48Z,Trump,1317468,"AZ Presidential Election Results
 
 Biden (D): 51% (1,410,977 votes)
 Trump (R): 48% (1,317,468 votes)
@@ -2467,7 +2467,7 @@ Trump (R): 48% (1,317,468 votes)
 Estimated: 85-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-MI,2020-11-04T10:04:15Z,Trump,2200902,0.5,"MI Presidential Election Results
+MI,2020-11-04T10:04:15Z,Trump,2200902,"MI Presidential Election Results
 
 Trump (R): 50% (2,200,902 votes)
 Biden (D): 48% (2,130,695 votes)
@@ -2475,7 +2475,7 @@ Biden (D): 48% (2,130,695 votes)
 Estimated: 80-94% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T10:04:15Z,Biden,2130695,0.48,"MI Presidential Election Results
+MI,2020-11-04T10:04:15Z,Biden,2130695,"MI Presidential Election Results
 
 Trump (R): 50% (2,200,902 votes)
 Biden (D): 48% (2,130,695 votes)
@@ -2483,7 +2483,7 @@ Biden (D): 48% (2,130,695 votes)
 Estimated: 80-94% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T09:59:25Z,Trump,2193771,0.5,"MI Presidential Election Results
+MI,2020-11-04T09:59:25Z,Trump,2193771,"MI Presidential Election Results
 
 Trump (R): 50% (2,193,771 votes)
 Biden (D): 48% (2,119,618 votes)
@@ -2491,7 +2491,7 @@ Biden (D): 48% (2,119,618 votes)
 Estimated: 80-93% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T09:59:25Z,Biden,2119618,0.48,"MI Presidential Election Results
+MI,2020-11-04T09:59:25Z,Biden,2119618,"MI Presidential Election Results
 
 Trump (R): 50% (2,193,771 votes)
 Biden (D): 48% (2,119,618 votes)
@@ -2499,7 +2499,7 @@ Biden (D): 48% (2,119,618 votes)
 Estimated: 80-93% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-AZ,2020-11-04T09:40:56Z,Biden,1408971,0.51,"AZ Presidential Election Results
+AZ,2020-11-04T09:40:56Z,Biden,1408971,"AZ Presidential Election Results
 
 Biden (D): 51% (1,408,971 votes)
 Trump (R): 47% (1,303,864 votes)
@@ -2507,7 +2507,7 @@ Trump (R): 47% (1,303,864 votes)
 Estimated: 84-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-04T09:40:56Z,Trump,1303864,0.47,"AZ Presidential Election Results
+AZ,2020-11-04T09:40:56Z,Trump,1303864,"AZ Presidential Election Results
 
 Biden (D): 51% (1,408,971 votes)
 Trump (R): 47% (1,303,864 votes)
@@ -2515,7 +2515,7 @@ Trump (R): 47% (1,303,864 votes)
 Estimated: 84-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-MI,2020-11-04T09:39:57Z,Trump,2174533,0.52,"MI Presidential Election Results
+MI,2020-11-04T09:39:57Z,Trump,2174533,"MI Presidential Election Results
 
 Trump (R): 52% (2,174,533 votes)
 Biden (D): 47% (1,953,819 votes)
@@ -2523,7 +2523,7 @@ Biden (D): 47% (1,953,819 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T09:39:57Z,Biden,1953819,0.47,"MI Presidential Election Results
+MI,2020-11-04T09:39:57Z,Biden,1953819,"MI Presidential Election Results
 
 Trump (R): 52% (2,174,533 votes)
 Biden (D): 47% (1,953,819 votes)
@@ -2531,7 +2531,7 @@ Biden (D): 47% (1,953,819 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-WI,2020-11-04T09:37:31Z,Biden,1572151,0.5,"WI Presidential Election Results
+WI,2020-11-04T09:37:31Z,Biden,1572151,"WI Presidential Election Results
 
 Biden (D): 50% (1,572,151 votes)
 Trump (R): 49% (1,553,512 votes)
@@ -2539,7 +2539,7 @@ Trump (R): 49% (1,553,512 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T09:37:31Z,Trump,1553512,0.49,"WI Presidential Election Results
+WI,2020-11-04T09:37:31Z,Trump,1553512,"WI Presidential Election Results
 
 Biden (D): 50% (1,572,151 votes)
 Trump (R): 49% (1,553,512 votes)
@@ -2547,7 +2547,7 @@ Trump (R): 49% (1,553,512 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T09:34:00Z,Biden,1551268,0.49,"WI Presidential Election Results - Biden Takes The Lead
+WI,2020-11-04T09:34:00Z,Biden,1551268,"WI Presidential Election Results - Biden Takes The Lead
 
 Biden (D): 49% (1,551,268 votes)
 Trump (R): 49% (1,549,127 votes)
@@ -2555,7 +2555,7 @@ Trump (R): 49% (1,549,127 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T09:34:00Z,Trump,1549127,0.49,"WI Presidential Election Results - Biden Takes The Lead
+WI,2020-11-04T09:34:00Z,Trump,1549127,"WI Presidential Election Results - Biden Takes The Lead
 
 Biden (D): 49% (1,551,268 votes)
 Trump (R): 49% (1,549,127 votes)
@@ -2563,7 +2563,7 @@ Trump (R): 49% (1,549,127 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-AZ,2020-11-04T09:31:50Z,Biden,1407732,0.51,"AZ Presidential Election Results
+AZ,2020-11-04T09:31:50Z,Biden,1407732,"AZ Presidential Election Results
 
 Biden (D): 51% (1,407,732 votes)
 Trump (R): 47% (1,296,294 votes)
@@ -2571,7 +2571,7 @@ Trump (R): 47% (1,296,294 votes)
 Estimated: 84-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-04T09:31:50Z,Trump,1296294,0.47,"AZ Presidential Election Results
+AZ,2020-11-04T09:31:50Z,Trump,1296294,"AZ Presidential Election Results
 
 Biden (D): 51% (1,407,732 votes)
 Trump (R): 47% (1,296,294 votes)
@@ -2579,7 +2579,7 @@ Trump (R): 47% (1,296,294 votes)
 Estimated: 84-99% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-WI,2020-11-04T09:29:25Z,Trump,1533885,0.5,"WI Presidential Election Results
+WI,2020-11-04T09:29:25Z,Trump,1533885,"WI Presidential Election Results
 
 Trump (R): 50% (1,533,885 votes)
 Biden (D): 48% (1,467,455 votes)
@@ -2587,7 +2587,7 @@ Biden (D): 48% (1,467,455 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T09:29:25Z,Biden,1467455,0.48,"WI Presidential Election Results
+WI,2020-11-04T09:29:25Z,Biden,1467455,"WI Presidential Election Results
 
 Trump (R): 50% (1,533,885 votes)
 Biden (D): 48% (1,467,455 votes)
@@ -2595,7 +2595,7 @@ Biden (D): 48% (1,467,455 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-MI,2020-11-04T09:27:45Z,Trump,2161217,0.52,"MI Presidential Election Results
+MI,2020-11-04T09:27:45Z,Trump,2161217,"MI Presidential Election Results
 
 Trump (R): 52% (2,161,217 votes)
 Biden (D): 47% (1,941,815 votes)
@@ -2603,7 +2603,7 @@ Biden (D): 47% (1,941,815 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T09:27:45Z,Biden,1941815,0.47,"MI Presidential Election Results
+MI,2020-11-04T09:27:45Z,Biden,1941815,"MI Presidential Election Results
 
 Trump (R): 52% (2,161,217 votes)
 Biden (D): 47% (1,941,815 votes)
@@ -2611,7 +2611,7 @@ Biden (D): 47% (1,941,815 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-WI,2020-11-04T09:19:41Z,Trump,1529870,0.51,"WI Presidential Election Results
+WI,2020-11-04T09:19:41Z,Trump,1529870,"WI Presidential Election Results
 
 Trump (R): 51% (1,529,870 votes)
 Biden (D): 48% (1,429,027 votes)
@@ -2619,7 +2619,7 @@ Biden (D): 48% (1,429,027 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T09:19:41Z,Biden,1429027,0.48,"WI Presidential Election Results
+WI,2020-11-04T09:19:41Z,Biden,1429027,"WI Presidential Election Results
 
 Trump (R): 51% (1,529,870 votes)
 Biden (D): 48% (1,429,027 votes)
@@ -2627,7 +2627,7 @@ Biden (D): 48% (1,429,027 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-MI,2020-11-04T09:18:24Z,Trump,2106855,0.52,"MI Presidential Election Results
+MI,2020-11-04T09:18:24Z,Trump,2106855,"MI Presidential Election Results
 
 Trump (R): 52% (2,106,855 votes)
 Biden (D): 46% (1,861,466 votes)
@@ -2635,7 +2635,7 @@ Biden (D): 46% (1,861,466 votes)
 Estimated: 73-86% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T09:18:24Z,Biden,1861466,0.46,"MI Presidential Election Results
+MI,2020-11-04T09:18:24Z,Biden,1861466,"MI Presidential Election Results
 
 Trump (R): 52% (2,106,855 votes)
 Biden (D): 46% (1,861,466 votes)
@@ -2643,7 +2643,7 @@ Biden (D): 46% (1,861,466 votes)
 Estimated: 73-86% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-NC,2020-11-04T08:51:44Z,Trump,2732084,0.5,"NC Presidential Election Results
+NC,2020-11-04T08:51:44Z,Trump,2732084,"NC Presidential Election Results
 
 Trump (R): 50% (2,732,084 votes)
 Biden (D): 49% (2,655,383 votes)
@@ -2651,7 +2651,7 @@ Biden (D): 49% (2,655,383 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T08:51:44Z,Biden,2655383,0.49,"NC Presidential Election Results
+NC,2020-11-04T08:51:44Z,Biden,2655383,"NC Presidential Election Results
 
 Trump (R): 50% (2,732,084 votes)
 Biden (D): 49% (2,655,383 votes)
@@ -2659,7 +2659,7 @@ Biden (D): 49% (2,655,383 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-AZ,2020-11-04T08:46:44Z,Biden,1373662,0.52,"AZ Presidential Election Results
+AZ,2020-11-04T08:46:44Z,Biden,1373662,"AZ Presidential Election Results
 
 Biden (D): 52% (1,373,662 votes)
 Trump (R): 47% (1,240,620 votes)
@@ -2667,7 +2667,7 @@ Trump (R): 47% (1,240,620 votes)
 Estimated: 81-97% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-04T08:46:44Z,Trump,1240620,0.47,"AZ Presidential Election Results
+AZ,2020-11-04T08:46:44Z,Trump,1240620,"AZ Presidential Election Results
 
 Biden (D): 52% (1,373,662 votes)
 Trump (R): 47% (1,240,620 votes)
@@ -2675,7 +2675,7 @@ Trump (R): 47% (1,240,620 votes)
 Estimated: 81-97% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-MI,2020-11-04T08:41:35Z,Trump,2066057,0.52,"MI Presidential Election Results
+MI,2020-11-04T08:41:35Z,Trump,2066057,"MI Presidential Election Results
 
 Trump (R): 52% (2,066,057 votes)
 Biden (D): 46% (1,820,659 votes)
@@ -2683,7 +2683,7 @@ Biden (D): 46% (1,820,659 votes)
 Estimated: 72-84% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T08:41:35Z,Biden,1820659,0.46,"MI Presidential Election Results
+MI,2020-11-04T08:41:35Z,Biden,1820659,"MI Presidential Election Results
 
 Trump (R): 52% (2,066,057 votes)
 Biden (D): 46% (1,820,659 votes)
@@ -2691,19 +2691,19 @@ Biden (D): 46% (1,820,659 votes)
 Estimated: 72-84% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-GA,2020-11-04T08:38:18Z,Trump,2382070,0.5,"GA Presidential Election Results
+GA,2020-11-04T08:38:18Z,Trump,2382070,"GA Presidential Election Results
 
 Trump (R): 50% (2,382,070 votes)
 Biden (D): 48% (2,280,258 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T08:38:18Z,Biden,2280258,0.48,"GA Presidential Election Results
+GA,2020-11-04T08:38:18Z,Biden,2280258,"GA Presidential Election Results
 
 Trump (R): 50% (2,382,070 votes)
 Biden (D): 48% (2,280,258 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-WI,2020-11-04T07:07:19Z,Trump,1445189,0.51,"WI Presidential Election Results
+WI,2020-11-04T07:07:19Z,Trump,1445189,"WI Presidential Election Results
 
 Trump (R): 51% (1,445,189 votes)
 Biden (D): 47% (1,337,045 votes)
@@ -2711,7 +2711,7 @@ Biden (D): 47% (1,337,045 votes)
 Estimated: 84-98% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T07:07:19Z,Biden,1337045,0.47,"WI Presidential Election Results
+WI,2020-11-04T07:07:19Z,Biden,1337045,"WI Presidential Election Results
 
 Trump (R): 51% (1,445,189 votes)
 Biden (D): 47% (1,337,045 votes)
@@ -2719,7 +2719,7 @@ Biden (D): 47% (1,337,045 votes)
 Estimated: 84-98% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-AZ,2020-11-04T06:58:44Z,Biden,1337230,0.52,"AZ Presidential Election Results
+AZ,2020-11-04T06:58:44Z,Biden,1337230,"AZ Presidential Election Results
 
 Biden (D): 52% (1,337,230 votes)
 Trump (R): 46% (1,181,420 votes)
@@ -2727,7 +2727,7 @@ Trump (R): 46% (1,181,420 votes)
 Estimated: 78-94% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-AZ,2020-11-04T06:58:44Z,Trump,1181420,0.46,"AZ Presidential Election Results
+AZ,2020-11-04T06:58:44Z,Trump,1181420,"AZ Presidential Election Results
 
 Biden (D): 52% (1,337,230 votes)
 Trump (R): 46% (1,181,420 votes)
@@ -2735,19 +2735,19 @@ Trump (R): 46% (1,181,420 votes)
 Estimated: 78-94% votes in
 
 More results here: https://t.co/7CxbLsQ3gY"
-GA,2020-11-04T06:49:04Z,Trump,2365842,0.51,"GA Presidential Election Results
+GA,2020-11-04T06:49:04Z,Trump,2365842,"GA Presidential Election Results
 
 Trump (R): 51% (2,365,842 votes)
 Biden (D): 48% (2,248,032 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T06:49:04Z,Biden,2248032,0.48,"GA Presidential Election Results
+GA,2020-11-04T06:49:04Z,Biden,2248032,"GA Presidential Election Results
 
 Trump (R): 51% (2,365,842 votes)
 Biden (D): 48% (2,248,032 votes)
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T06:01:58Z,Trump,2260606,0.52,"GA Presidential Election Results
+GA,2020-11-04T06:01:58Z,Trump,2260606,"GA Presidential Election Results
 
 Trump (R): 52% (2,260,606 votes)
 Biden (D): 47% (2,015,836 votes)
@@ -2755,7 +2755,7 @@ Biden (D): 47% (2,015,836 votes)
 Estimated: 86-99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T06:01:58Z,Biden,2015836,0.47,"GA Presidential Election Results
+GA,2020-11-04T06:01:58Z,Biden,2015836,"GA Presidential Election Results
 
 Trump (R): 52% (2,260,606 votes)
 Biden (D): 47% (2,015,836 votes)
@@ -2763,7 +2763,7 @@ Biden (D): 47% (2,015,836 votes)
 Estimated: 86-99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-MN,2020-11-04T05:56:27Z,Biden,1467715,0.54,"MN Presidential Election Results
+MN,2020-11-04T05:56:27Z,Biden,1467715,"MN Presidential Election Results
 
 Biden (D): 54% (1,467,715 votes)
 Trump (R): 44% (1,181,549 votes)
@@ -2771,7 +2771,7 @@ Trump (R): 44% (1,181,549 votes)
 Estimated: 78-90% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-MN,2020-11-04T05:56:27Z,Trump,1181549,0.44,"MN Presidential Election Results
+MN,2020-11-04T05:56:27Z,Trump,1181549,"MN Presidential Election Results
 
 Biden (D): 54% (1,467,715 votes)
 Trump (R): 44% (1,181,549 votes)
@@ -2779,7 +2779,7 @@ Trump (R): 44% (1,181,549 votes)
 Estimated: 78-90% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-ME,2020-11-04T05:40:21Z,Biden,333218,0.54,"ME Presidential Election Results
+ME,2020-11-04T05:40:21Z,Biden,333218,"ME Presidential Election Results
 
 Biden (D): 54% (333,218 votes)
 Trump (R): 44% (270,651 votes)
@@ -2787,7 +2787,7 @@ Trump (R): 44% (270,651 votes)
 Estimated: 73-84% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-ME,2020-11-04T05:40:21Z,Trump,270651,0.44,"ME Presidential Election Results
+ME,2020-11-04T05:40:21Z,Trump,270651,"ME Presidential Election Results
 
 Biden (D): 54% (333,218 votes)
 Trump (R): 44% (270,651 votes)
@@ -2795,7 +2795,7 @@ Trump (R): 44% (270,651 votes)
 Estimated: 73-84% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-IA,2020-11-04T05:20:03Z,Trump,844412,0.53,"IA Presidential Election Results
+IA,2020-11-04T05:20:03Z,Trump,844412,"IA Presidential Election Results
 
 Trump (R): 53% (844,412 votes)
 Biden (D): 45% (712,073 votes)
@@ -2803,7 +2803,7 @@ Biden (D): 45% (712,073 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-IA,2020-11-04T05:20:03Z,Biden,712073,0.45,"IA Presidential Election Results
+IA,2020-11-04T05:20:03Z,Biden,712073,"IA Presidential Election Results
 
 Trump (R): 53% (844,412 votes)
 Biden (D): 45% (712,073 votes)
@@ -2811,7 +2811,7 @@ Biden (D): 45% (712,073 votes)
 Estimated: &gt; 99% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-GA,2020-11-04T05:17:36Z,Trump,2173677,0.53,"GA Presidential Election Results
+GA,2020-11-04T05:17:36Z,Trump,2173677,"GA Presidential Election Results
 
 Trump (R): 53% (2,173,677 votes)
 Biden (D): 46% (1,866,631 votes)
@@ -2819,7 +2819,7 @@ Biden (D): 46% (1,866,631 votes)
 Estimated: 82-99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T05:17:36Z,Biden,1866631,0.46,"GA Presidential Election Results
+GA,2020-11-04T05:17:36Z,Biden,1866631,"GA Presidential Election Results
 
 Trump (R): 53% (2,173,677 votes)
 Biden (D): 46% (1,866,631 votes)
@@ -2827,7 +2827,7 @@ Biden (D): 46% (1,866,631 votes)
 Estimated: 82-99% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-IA,2020-11-04T04:55:18Z,Trump,725681,0.52,"IA Presidential Election Results
+IA,2020-11-04T04:55:18Z,Trump,725681,"IA Presidential Election Results
 
 Trump (R): 52% (725,681 votes)
 Biden (D): 47% (659,050 votes)
@@ -2835,7 +2835,7 @@ Biden (D): 47% (659,050 votes)
 Estimated: 80-93% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-IA,2020-11-04T04:55:18Z,Biden,659050,0.47,"IA Presidential Election Results
+IA,2020-11-04T04:55:18Z,Biden,659050,"IA Presidential Election Results
 
 Trump (R): 52% (725,681 votes)
 Biden (D): 47% (659,050 votes)
@@ -2843,7 +2843,7 @@ Biden (D): 47% (659,050 votes)
 Estimated: 80-93% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-WI,2020-11-04T04:49:43Z,Trump,1101613,0.52,"WI Presidential Election Results
+WI,2020-11-04T04:49:43Z,Trump,1101613,"WI Presidential Election Results
 
 Trump (R): 52% (1,101,613 votes)
 Biden (D): 47% (1,004,054 votes)
@@ -2851,7 +2851,7 @@ Biden (D): 47% (1,004,054 votes)
 Estimated: 64-74% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-WI,2020-11-04T04:49:43Z,Biden,1004054,0.47,"WI Presidential Election Results
+WI,2020-11-04T04:49:43Z,Biden,1004054,"WI Presidential Election Results
 
 Trump (R): 52% (1,101,613 votes)
 Biden (D): 47% (1,004,054 votes)
@@ -2859,7 +2859,7 @@ Biden (D): 47% (1,004,054 votes)
 Estimated: 64-74% votes in
 
 More results here: https://t.co/WSml3RdgJ2"
-GA,2020-11-04T04:28:38Z,Trump,1894768,0.54,"GA Presidential Election Results
+GA,2020-11-04T04:28:38Z,Trump,1894768,"GA Presidential Election Results
 
 Trump (R): 54% (1,894,768 votes)
 Biden (D): 45% (1,584,327 votes)
@@ -2867,7 +2867,7 @@ Biden (D): 45% (1,584,327 votes)
 Estimated: 70-85% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T04:28:38Z,Biden,1584327,0.45,"GA Presidential Election Results
+GA,2020-11-04T04:28:38Z,Biden,1584327,"GA Presidential Election Results
 
 Trump (R): 54% (1,894,768 votes)
 Biden (D): 45% (1,584,327 votes)
@@ -2875,7 +2875,7 @@ Biden (D): 45% (1,584,327 votes)
 Estimated: 70-85% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-NC,2020-11-04T04:27:30Z,Trump,2727622,0.5,"NC Presidential Election Results
+NC,2020-11-04T04:27:30Z,Trump,2727622,"NC Presidential Election Results
 
 Trump (R): 50% (2,727,622 votes)
 Biden (D): 49% (2,653,816 votes)
@@ -2883,7 +2883,7 @@ Biden (D): 49% (2,653,816 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T04:27:30Z,Biden,2653816,0.49,"NC Presidential Election Results
+NC,2020-11-04T04:27:30Z,Biden,2653816,"NC Presidential Election Results
 
 Trump (R): 50% (2,727,622 votes)
 Biden (D): 49% (2,653,816 votes)
@@ -2891,7 +2891,7 @@ Biden (D): 49% (2,653,816 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-IA,2020-11-04T04:25:05Z,Biden,562004,0.49,"IA Presidential Election Results
+IA,2020-11-04T04:25:05Z,Biden,562004,"IA Presidential Election Results
 
 Biden (D): 49% (562,004 votes)
 Trump (R): 49% (555,640 votes)
@@ -2899,7 +2899,7 @@ Trump (R): 49% (555,640 votes)
 Estimated: 64-75% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-IA,2020-11-04T04:25:05Z,Trump,555640,0.49,"IA Presidential Election Results
+IA,2020-11-04T04:25:05Z,Trump,555640,"IA Presidential Election Results
 
 Biden (D): 49% (562,004 votes)
 Trump (R): 49% (555,640 votes)
@@ -2907,7 +2907,7 @@ Trump (R): 49% (555,640 votes)
 Estimated: 64-75% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-MN,2020-11-04T04:23:41Z,Biden,1005136,0.56,"MN Presidential Election Results
+MN,2020-11-04T04:23:41Z,Biden,1005136,"MN Presidential Election Results
 
 Biden (D): 56% (1,005,136 votes)
 Trump (R): 41% (747,087 votes)
@@ -2915,7 +2915,7 @@ Trump (R): 41% (747,087 votes)
 Estimated: 52-60% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-MN,2020-11-04T04:23:41Z,Trump,747087,0.41,"MN Presidential Election Results
+MN,2020-11-04T04:23:41Z,Trump,747087,"MN Presidential Election Results
 
 Biden (D): 56% (1,005,136 votes)
 Trump (R): 41% (747,087 votes)
@@ -2923,7 +2923,7 @@ Trump (R): 41% (747,087 votes)
 Estimated: 52-60% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-TX,2020-11-04T04:12:36Z,Trump,5033674,0.52,"TX Presidential Election Results
+TX,2020-11-04T04:12:36Z,Trump,5033674,"TX Presidential Election Results
 
 Trump (R): 52% (5,033,674 votes)
 Biden (D): 47% (4,604,148 votes)
@@ -2931,7 +2931,7 @@ Biden (D): 47% (4,604,148 votes)
 Estimated: 83-99% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T04:12:36Z,Biden,4604148,0.47,"TX Presidential Election Results
+TX,2020-11-04T04:12:36Z,Biden,4604148,"TX Presidential Election Results
 
 Trump (R): 52% (5,033,674 votes)
 Biden (D): 47% (4,604,148 votes)
@@ -2939,7 +2939,7 @@ Biden (D): 47% (4,604,148 votes)
 Estimated: 83-99% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-PA,2020-11-04T04:08:55Z,Trump,1717648,0.51,"PA Presidential Election Results
+PA,2020-11-04T04:08:55Z,Trump,1717648,"PA Presidential Election Results
 
 Trump (R): 51% (1,717,648 votes)
 Biden (D): 48% (1,357,851 votes)
@@ -2947,7 +2947,7 @@ Biden (D): 48% (1,357,851 votes)
 Estimated: 45-53 votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T04:08:55Z,Biden,1357851,0.48,"PA Presidential Election Results
+PA,2020-11-04T04:08:55Z,Biden,1357851,"PA Presidential Election Results
 
 Trump (R): 51% (1,717,648 votes)
 Biden (D): 48% (1,357,851 votes)
@@ -2955,7 +2955,7 @@ Biden (D): 48% (1,357,851 votes)
 Estimated: 45-53 votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-MN,2020-11-04T04:00:51Z,Biden,845988,0.58,"MN Presidential Election Results
+MN,2020-11-04T04:00:51Z,Biden,845988,"MN Presidential Election Results
 
 Biden (D): 58% (845,988 votes)
 Trump (R): 39% (577,482 votes)
@@ -2963,7 +2963,7 @@ Trump (R): 39% (577,482 votes)
 Estimated: 43-49% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-MN,2020-11-04T04:00:51Z,Trump,577482,0.39,"MN Presidential Election Results
+MN,2020-11-04T04:00:51Z,Trump,577482,"MN Presidential Election Results
 
 Biden (D): 58% (845,988 votes)
 Trump (R): 39% (577,482 votes)
@@ -2971,7 +2971,7 @@ Trump (R): 39% (577,482 votes)
 Estimated: 43-49% votes in
 
 More results here: https://t.co/6KiYfG5wzB"
-IA,2020-11-04T03:51:18Z,Biden,406543,0.59,"IA Presidential Election Results
+IA,2020-11-04T03:51:18Z,Biden,406543,"IA Presidential Election Results
 
 Biden (D): 59% (406,543 votes)
 Trump (R): 39% (268,435 votes)
@@ -2979,7 +2979,7 @@ Trump (R): 39% (268,435 votes)
 Estimated: 39-45% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-IA,2020-11-04T03:51:18Z,Trump,268435,0.39,"IA Presidential Election Results
+IA,2020-11-04T03:51:18Z,Trump,268435,"IA Presidential Election Results
 
 Biden (D): 59% (406,543 votes)
 Trump (R): 39% (268,435 votes)
@@ -2987,7 +2987,7 @@ Trump (R): 39% (268,435 votes)
 Estimated: 39-45% votes in
 
 More results here: https://t.co/TVfFLK1Axe"
-TX,2020-11-04T03:49:46Z,Trump,4768461,0.51,"TX Presidential Election Results
+TX,2020-11-04T03:49:46Z,Trump,4768461,"TX Presidential Election Results
 
 Trump (R): 51% (4,768,461 votes)
 Biden (D): 48% (4,456,456 votes)
@@ -2995,7 +2995,7 @@ Biden (D): 48% (4,456,456 votes)
 Estimated: 79-99% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T03:49:46Z,Biden,4456456,0.48,"TX Presidential Election Results
+TX,2020-11-04T03:49:46Z,Biden,4456456,"TX Presidential Election Results
 
 Trump (R): 51% (4,768,461 votes)
 Biden (D): 48% (4,456,456 votes)
@@ -3003,7 +3003,7 @@ Biden (D): 48% (4,456,456 votes)
 Estimated: 79-99% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-NC,2020-11-04T03:38:12Z,Trump,2658059,0.5,"NC Presidential Election Results
+NC,2020-11-04T03:38:12Z,Trump,2658059,"NC Presidential Election Results
 
 Trump (R): 50% (2,658,059 votes)
 Biden (D): 49% (2,604,493 votes)
@@ -3011,7 +3011,7 @@ Biden (D): 49% (2,604,493 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T03:38:12Z,Biden,2604493,0.49,"NC Presidential Election Results
+NC,2020-11-04T03:38:12Z,Biden,2604493,"NC Presidential Election Results
 
 Trump (R): 50% (2,658,059 votes)
 Biden (D): 49% (2,604,493 votes)
@@ -3019,7 +3019,7 @@ Biden (D): 49% (2,604,493 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-GA,2020-11-04T03:36:18Z,Trump,1665798,0.55,"GA Presidential Election Results
+GA,2020-11-04T03:36:18Z,Trump,1665798,"GA Presidential Election Results
 
 Trump (R): 55% (1,665,798 votes)
 Biden (D): 43% (1,308,237 votes)
@@ -3027,7 +3027,7 @@ Biden (D): 43% (1,308,237 votes)
 Estimated: 60-73% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T03:36:18Z,Biden,1308237,0.43,"GA Presidential Election Results
+GA,2020-11-04T03:36:18Z,Biden,1308237,"GA Presidential Election Results
 
 Trump (R): 55% (1,665,798 votes)
 Biden (D): 43% (1,308,237 votes)
@@ -3035,7 +3035,7 @@ Biden (D): 43% (1,308,237 votes)
 Estimated: 60-73% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-TX,2020-11-04T03:28:52Z,Trump,4631808,0.51,"TX Presidential Election Results
+TX,2020-11-04T03:28:52Z,Trump,4631808,"TX Presidential Election Results
 
 Trump (R): 51% (4,631,808 votes)
 Biden (D): 48% (4,380,896 votes)
@@ -3043,7 +3043,7 @@ Biden (D): 48% (4,380,896 votes)
 Estimated: 77-98% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T03:28:52Z,Biden,4380896,0.48,"TX Presidential Election Results
+TX,2020-11-04T03:28:52Z,Biden,4380896,"TX Presidential Election Results
 
 Trump (R): 51% (4,631,808 votes)
 Biden (D): 48% (4,380,896 votes)
@@ -3051,7 +3051,7 @@ Biden (D): 48% (4,380,896 votes)
 Estimated: 77-98% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-UT,2020-11-04T03:25:02Z,Trump,386434,0.54,"UT Presidential Election Results
+UT,2020-11-04T03:25:02Z,Trump,386434,"UT Presidential Election Results
 
 Trump (R): 54% (386,434 votes)
 Biden (D): 43% (311,293 votes)
@@ -3059,7 +3059,7 @@ Biden (D): 43% (311,293 votes)
 Estimated: 50-59% votes in
 
 More results here: https://t.co/lCOJuXOE6p"
-UT,2020-11-04T03:25:02Z,Biden,311293,0.43,"UT Presidential Election Results
+UT,2020-11-04T03:25:02Z,Biden,311293,"UT Presidential Election Results
 
 Trump (R): 54% (386,434 votes)
 Biden (D): 43% (311,293 votes)
@@ -3067,7 +3067,7 @@ Biden (D): 43% (311,293 votes)
 Estimated: 50-59% votes in
 
 More results here: https://t.co/lCOJuXOE6p"
-PA,2020-11-04T03:20:38Z,Trump,1081776,0.51,"PA Presidential Election Results
+PA,2020-11-04T03:20:38Z,Trump,1081776,"PA Presidential Election Results
 
 Trump (R): 51% (1,081,776 votes)
 Biden (D): 48% (973,647 votes)
@@ -3075,7 +3075,7 @@ Biden (D): 48% (973,647 votes)
 Estimated: 30-35% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T03:20:38Z,Biden,973647,0.48,"PA Presidential Election Results
+PA,2020-11-04T03:20:38Z,Biden,973647,"PA Presidential Election Results
 
 Trump (R): 51% (1,081,776 votes)
 Biden (D): 48% (973,647 votes)
@@ -3083,7 +3083,7 @@ Biden (D): 48% (973,647 votes)
 Estimated: 30-35% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-MI,2020-11-04T03:14:19Z,Trump,966380,0.55,"MI Presidential Election Results
+MI,2020-11-04T03:14:19Z,Trump,966380,"MI Presidential Election Results
 
 Trump (R): 55% (966,380 votes)
 Biden (D): 43% (749,283 votes)
@@ -3091,7 +3091,7 @@ Biden (D): 43% (749,283 votes)
 Estimated: 32-37% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T03:14:19Z,Biden,749283,0.43,"MI Presidential Election Results
+MI,2020-11-04T03:14:19Z,Biden,749283,"MI Presidential Election Results
 
 Trump (R): 55% (966,380 votes)
 Biden (D): 43% (749,283 votes)
@@ -3099,7 +3099,7 @@ Biden (D): 43% (749,283 votes)
 Estimated: 32-37% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-GA,2020-11-04T03:12:04Z,Trump,1502028,0.55,"GA Presidential Election Results
+GA,2020-11-04T03:12:04Z,Trump,1502028,"GA Presidential Election Results
 
 Trump (R): 55% (1,502,028 votes)
 Biden (D): 43% (1,172,891 votes)
@@ -3107,7 +3107,7 @@ Biden (D): 43% (1,172,891 votes)
 Estimated: 54-65% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T03:12:04Z,Biden,1172891,0.43,"GA Presidential Election Results
+GA,2020-11-04T03:12:04Z,Biden,1172891,"GA Presidential Election Results
 
 Trump (R): 55% (1,502,028 votes)
 Biden (D): 43% (1,172,891 votes)
@@ -3115,7 +3115,7 @@ Biden (D): 43% (1,172,891 votes)
 Estimated: 54-65% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-ME,2020-11-04T03:09:02Z,Trump,66241,0.49,"ME Presidential Election Results
+ME,2020-11-04T03:09:02Z,Trump,66241,"ME Presidential Election Results
 
 Trump (R): 49% (66,241 votes)
 Biden (D): 48% (64,952 votes)
@@ -3123,7 +3123,7 @@ Biden (D): 48% (64,952 votes)
 Estimated: 16-18% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-ME,2020-11-04T03:09:02Z,Biden,64952,0.48,"ME Presidential Election Results
+ME,2020-11-04T03:09:02Z,Biden,64952,"ME Presidential Election Results
 
 Trump (R): 49% (66,241 votes)
 Biden (D): 48% (64,952 votes)
@@ -3131,7 +3131,7 @@ Biden (D): 48% (64,952 votes)
 Estimated: 16-18% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-NC,2020-11-04T03:08:12Z,Trump,2525182,0.49,"NC Presidential Election Results
+NC,2020-11-04T03:08:12Z,Trump,2525182,"NC Presidential Election Results
 
 Trump (R): 49% (2,525,182 votes)
 Biden (D): 49% (2,523,830 votes)
@@ -3139,7 +3139,7 @@ Biden (D): 49% (2,523,830 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T03:08:12Z,Biden,2523830,0.49,"NC Presidential Election Results
+NC,2020-11-04T03:08:12Z,Biden,2523830,"NC Presidential Election Results
 
 Trump (R): 49% (2,525,182 votes)
 Biden (D): 49% (2,523,830 votes)
@@ -3147,7 +3147,7 @@ Biden (D): 49% (2,523,830 votes)
 Estimated: &gt; 95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-TX,2020-11-04T03:05:10Z,Trump,4453789,0.5,"TX Presidential Election Results
+TX,2020-11-04T03:05:10Z,Trump,4453789,"TX Presidential Election Results
 
 Trump (R): 50% (4,453,789 votes)
 Biden (D): 48% (4,279,967 votes)
@@ -3155,7 +3155,7 @@ Biden (D): 48% (4,279,967 votes)
 Estimated: 75-95% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T03:05:10Z,Biden,4279967,0.48,"TX Presidential Election Results
+TX,2020-11-04T03:05:10Z,Biden,4279967,"TX Presidential Election Results
 
 Trump (R): 50% (4,453,789 votes)
 Biden (D): 48% (4,279,967 votes)
@@ -3163,7 +3163,7 @@ Biden (D): 48% (4,279,967 votes)
 Estimated: 75-95% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-OH,2020-11-04T02:55:43Z,Trump,2212913,0.5,"OH Presidential Election Results
+OH,2020-11-04T02:55:43Z,Trump,2212913,"OH Presidential Election Results
 
 Trump (R): 50% (2,212,913 votes)
 Biden (D): 49% (2,182,888 votes)
@@ -3171,7 +3171,7 @@ Biden (D): 49% (2,182,888 votes)
 Estimated: 73-87% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-OH,2020-11-04T02:55:43Z,Biden,2182888,0.49,"OH Presidential Election Results
+OH,2020-11-04T02:55:43Z,Biden,2182888,"OH Presidential Election Results
 
 Trump (R): 50% (2,212,913 votes)
 Biden (D): 49% (2,182,888 votes)
@@ -3179,7 +3179,7 @@ Biden (D): 49% (2,182,888 votes)
 Estimated: 73-87% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-TX,2020-11-04T02:49:30Z,Biden,4142767,0.49,"TX Presidential Election Results
+TX,2020-11-04T02:49:30Z,Biden,4142767,"TX Presidential Election Results
 
 Biden (D): 49% (4,142,767 votes)
 Trump (R): 49% (4,124,951 votes)
@@ -3187,7 +3187,7 @@ Trump (R): 49% (4,124,951 votes)
 Estimated: 71-90% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T02:49:30Z,Trump,4124951,0.49,"TX Presidential Election Results
+TX,2020-11-04T02:49:30Z,Trump,4124951,"TX Presidential Election Results
 
 Biden (D): 49% (4,142,767 votes)
 Trump (R): 49% (4,124,951 votes)
@@ -3195,7 +3195,7 @@ Trump (R): 49% (4,124,951 votes)
 Estimated: 71-90% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-GA,2020-11-04T02:44:35Z,Trump,1362973,0.56,"GA Presidential Election Results
+GA,2020-11-04T02:44:35Z,Trump,1362973,"GA Presidential Election Results
 
 Trump (R): 56% (1,362,973 votes)
 Biden (D): 43% (1,039,229 votes)
@@ -3203,7 +3203,7 @@ Biden (D): 43% (1,039,229 votes)
 Estimated: 49-59% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T02:44:35Z,Biden,1039229,0.43,"GA Presidential Election Results
+GA,2020-11-04T02:44:35Z,Biden,1039229,"GA Presidential Election Results
 
 Trump (R): 56% (1,362,973 votes)
 Biden (D): 43% (1,039,229 votes)
@@ -3211,7 +3211,7 @@ Biden (D): 43% (1,039,229 votes)
 Estimated: 49-59% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-04T02:43:21Z,Biden,1061454,0.55,"PA Presidential Election Results
+PA,2020-11-04T02:43:21Z,Biden,1061454,"PA Presidential Election Results
 
 Biden (D): 55% (1,061,454 votes)
 Trump (R): 44% (844,308 votes)
@@ -3219,7 +3219,7 @@ Trump (R): 44% (844,308 votes)
 Estimated: 28-33% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T02:43:21Z,Trump,844308,0.44,"PA Presidential Election Results
+PA,2020-11-04T02:43:21Z,Trump,844308,"PA Presidential Election Results
 
 Biden (D): 55% (1,061,454 votes)
 Trump (R): 44% (844,308 votes)
@@ -3227,7 +3227,7 @@ Trump (R): 44% (844,308 votes)
 Estimated: 28-33% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-NC,2020-11-04T02:42:02Z,Biden,2461630,0.5,"NC Presidential Election Results
+NC,2020-11-04T02:42:02Z,Biden,2461630,"NC Presidential Election Results
 
 Biden (D): 50% (2,461,630 votes)
 Trump (R): 49% (2,436,014 votes)
@@ -3235,7 +3235,7 @@ Trump (R): 49% (2,436,014 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T02:42:02Z,Trump,2436014,0.49,"NC Presidential Election Results
+NC,2020-11-04T02:42:02Z,Trump,2436014,"NC Presidential Election Results
 
 Biden (D): 50% (2,461,630 votes)
 Trump (R): 49% (2,436,014 votes)
@@ -3243,7 +3243,7 @@ Trump (R): 49% (2,436,014 votes)
 Estimated: &gt;95% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NH,2020-11-04T02:32:35Z,Biden,157675,0.55,"NH Presidential Election Results
+NH,2020-11-04T02:32:35Z,Biden,157675,"NH Presidential Election Results
 
 Biden (D): 55% (157,675 votes)
 Trump (R): 44% (126,084 votes)
@@ -3251,7 +3251,7 @@ Trump (R): 44% (126,084 votes)
 Estimated: 34-39% votes in
 
 More results here: https://t.co/bzDw9IrYJM"
-NH,2020-11-04T02:32:35Z,Trump,126084,0.44,"NH Presidential Election Results
+NH,2020-11-04T02:32:35Z,Trump,126084,"NH Presidential Election Results
 
 Biden (D): 55% (157,675 votes)
 Trump (R): 44% (126,084 votes)
@@ -3259,7 +3259,7 @@ Trump (R): 44% (126,084 votes)
 Estimated: 34-39% votes in
 
 More results here: https://t.co/bzDw9IrYJM"
-OH,2020-11-04T02:31:19Z,Biden,2031469,0.51,"OH Presidential Election Results
+OH,2020-11-04T02:31:19Z,Biden,2031469,"OH Presidential Election Results
 
 Biden (D): 51% (2,031,469 votes)
 Trump (R): 48% (1,906,067 votes)
@@ -3267,7 +3267,7 @@ Trump (R): 48% (1,906,067 votes)
 Estimated: 65-78% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-OH,2020-11-04T02:31:19Z,Trump,1906067,0.48,"OH Presidential Election Results
+OH,2020-11-04T02:31:19Z,Trump,1906067,"OH Presidential Election Results
 
 Biden (D): 51% (2,031,469 votes)
 Trump (R): 48% (1,906,067 votes)
@@ -3275,7 +3275,7 @@ Trump (R): 48% (1,906,067 votes)
 Estimated: 65-78% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-NC,2020-11-04T02:25:15Z,Biden,2408683,0.5,"NC Presidential Election Results
+NC,2020-11-04T02:25:15Z,Biden,2408683,"NC Presidential Election Results
 
 Biden (D): 50% (2,408,683 votes)
 Trump (R): 49% (2,333,324 votes)
@@ -3283,7 +3283,7 @@ Trump (R): 49% (2,333,324 votes)
 Estimated: 86-99% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T02:25:15Z,Trump,2333324,0.49,"NC Presidential Election Results
+NC,2020-11-04T02:25:15Z,Trump,2333324,"NC Presidential Election Results
 
 Biden (D): 50% (2,408,683 votes)
 Trump (R): 49% (2,333,324 votes)
@@ -3291,7 +3291,7 @@ Trump (R): 49% (2,333,324 votes)
 Estimated: 86-99% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-TX,2020-11-04T02:23:55Z,Biden,4016352,0.5,"TX Presidential Election Results
+TX,2020-11-04T02:23:55Z,Biden,4016352,"TX Presidential Election Results
 
 Biden (D): 50% (4,016,352 votes)
 Trump (R): 48% (3,878,786 votes)
@@ -3299,7 +3299,7 @@ Trump (R): 48% (3,878,786 votes)
 Estimated: 68-86% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T02:23:55Z,Trump,3878786,0.48,"TX Presidential Election Results
+TX,2020-11-04T02:23:55Z,Trump,3878786,"TX Presidential Election Results
 
 Biden (D): 50% (4,016,352 votes)
 Trump (R): 48% (3,878,786 votes)
@@ -3307,7 +3307,7 @@ Trump (R): 48% (3,878,786 votes)
 Estimated: 68-86% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-ME,2020-11-04T02:19:09Z,Trump,17646,0.52,"ME Presidential Election Results
+ME,2020-11-04T02:19:09Z,Trump,17646,"ME Presidential Election Results
 
 Trump (R): 52% (17,646 votes)
 Biden (D): 45% (15,260 votes)
@@ -3315,7 +3315,7 @@ Biden (D): 45% (15,260 votes)
 Estimated: 4-5% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-ME,2020-11-04T02:19:09Z,Biden,15260,0.45,"ME Presidential Election Results
+ME,2020-11-04T02:19:09Z,Biden,15260,"ME Presidential Election Results
 
 Trump (R): 52% (17,646 votes)
 Biden (D): 45% (15,260 votes)
@@ -3323,7 +3323,7 @@ Biden (D): 45% (15,260 votes)
 Estimated: 4-5% votes in
 
 More results here: https://t.co/eBBPVCXMLz"
-PA,2020-11-04T02:16:04Z,Biden,756819,0.69,"PA Presidential Election Results
+PA,2020-11-04T02:16:04Z,Biden,756819,"PA Presidential Election Results
 
 Biden (D): 69% (756,819 votes)
 Trump (R): 30% (332,015 votes)
@@ -3331,7 +3331,7 @@ Trump (R): 30% (332,015 votes)
 Estimated: 16-19% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T02:16:04Z,Trump,332015,0.3,"PA Presidential Election Results
+PA,2020-11-04T02:16:04Z,Trump,332015,"PA Presidential Election Results
 
 Biden (D): 69% (756,819 votes)
 Trump (R): 30% (332,015 votes)
@@ -3339,7 +3339,7 @@ Trump (R): 30% (332,015 votes)
 Estimated: 16-19% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-GA,2020-11-04T02:10:42Z,Trump,971070,0.58,"GA Presidential Election Results
+GA,2020-11-04T02:10:42Z,Trump,971070,"GA Presidential Election Results
 
 Trump (R): 58% (971,070 votes)
 Biden (D): 41% (698,519 votes)
@@ -3347,7 +3347,7 @@ Biden (D): 41% (698,519 votes)
 Estimated: 34-41% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T02:10:42Z,Biden,698519,0.41,"GA Presidential Election Results
+GA,2020-11-04T02:10:42Z,Biden,698519,"GA Presidential Election Results
 
 Trump (R): 58% (971,070 votes)
 Biden (D): 41% (698,519 votes)
@@ -3355,7 +3355,7 @@ Biden (D): 41% (698,519 votes)
 Estimated: 34-41% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-MI,2020-11-04T02:08:53Z,Trump,587160,0.59,"MI Presidential Election Results
+MI,2020-11-04T02:08:53Z,Trump,587160,"MI Presidential Election Results
 
 Trump (R): 59% (587,160 votes)
 Biden (D): 39% (398,054 votes)
@@ -3363,7 +3363,7 @@ Biden (D): 39% (398,054 votes)
 Estimated: 18-21% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-MI,2020-11-04T02:08:53Z,Biden,398054,0.39,"MI Presidential Election Results
+MI,2020-11-04T02:08:53Z,Biden,398054,"MI Presidential Election Results
 
 Trump (R): 59% (587,160 votes)
 Biden (D): 39% (398,054 votes)
@@ -3371,7 +3371,7 @@ Biden (D): 39% (398,054 votes)
 Estimated: 18-21% votes in
 
 More results here: https://t.co/P8otcaDgvj"
-CO,2020-11-04T02:07:03Z,Biden,492301,0.65,"CO Presidential Election Results
+CO,2020-11-04T02:07:03Z,Biden,492301,"CO Presidential Election Results
 
 Biden (D): 65% (492,301 votes)
 Trump (R): 33% (245,090 votes)
@@ -3379,7 +3379,7 @@ Trump (R): 33% (245,090 votes)
 Estimated: 21-24% votes in
 
 More results here: https://t.co/syAhYwLlsX"
-CO,2020-11-04T02:07:03Z,Trump,245090,0.33,"CO Presidential Election Results
+CO,2020-11-04T02:07:03Z,Trump,245090,"CO Presidential Election Results
 
 Biden (D): 65% (492,301 votes)
 Trump (R): 33% (245,090 votes)
@@ -3387,7 +3387,7 @@ Trump (R): 33% (245,090 votes)
 Estimated: 21-24% votes in
 
 More results here: https://t.co/syAhYwLlsX"
-NC,2020-11-04T02:04:35Z,Biden,2265975,0.51,"NC Presidential Election Results
+NC,2020-11-04T02:04:35Z,Biden,2265975,"NC Presidential Election Results
 
 Biden (D): 51% (2,265,975 votes)
 Trump (R): 48% (2,113,494 votes)
@@ -3395,7 +3395,7 @@ Trump (R): 48% (2,113,494 votes)
 Estimated: 79-93% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T02:04:35Z,Trump,2113494,0.48,"NC Presidential Election Results
+NC,2020-11-04T02:04:35Z,Trump,2113494,"NC Presidential Election Results
 
 Biden (D): 51% (2,265,975 votes)
 Trump (R): 48% (2,113,494 votes)
@@ -3403,7 +3403,7 @@ Trump (R): 48% (2,113,494 votes)
 Estimated: 79-93% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-TX,2020-11-04T02:03:02Z,Biden,3661422,0.51,"TX Presidential Election Results
+TX,2020-11-04T02:03:02Z,Biden,3661422,"TX Presidential Election Results
 
 Biden (D): 51% (3,661,422 votes)
 Trump (R): 48% (3,461,463 votes)
@@ -3411,7 +3411,7 @@ Trump (R): 48% (3,461,463 votes)
 Estimated: 61-78% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T02:03:02Z,Trump,3461463,0.48,"TX Presidential Election Results
+TX,2020-11-04T02:03:02Z,Trump,3461463,"TX Presidential Election Results
 
 Biden (D): 51% (3,661,422 votes)
 Trump (R): 48% (3,461,463 votes)
@@ -3419,7 +3419,7 @@ Trump (R): 48% (3,461,463 votes)
 Estimated: 61-78% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-GA,2020-11-04T01:59:59Z,Trump,896893,0.57,"GA Presidential Election Results
+GA,2020-11-04T01:59:59Z,Trump,896893,"GA Presidential Election Results
 
 Trump (R): 57% (896,893 votes)
 Biden (D): 42% (665,159 votes)
@@ -3427,7 +3427,7 @@ Biden (D): 42% (665,159 votes)
 Estimated: 32-38% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T01:59:59Z,Biden,665159,0.42,"GA Presidential Election Results
+GA,2020-11-04T01:59:59Z,Biden,665159,"GA Presidential Election Results
 
 Trump (R): 57% (896,893 votes)
 Biden (D): 42% (665,159 votes)
@@ -3435,7 +3435,7 @@ Biden (D): 42% (665,159 votes)
 Estimated: 32-38% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-SC,2020-11-04T01:57:36Z,Trump,228048,0.53,"SC Presidential Election Results
+SC,2020-11-04T01:57:36Z,Trump,228048,"SC Presidential Election Results
 
 Trump (R): 53% (228,048 votes)
 Biden (D): 46% (201,952 votes)
@@ -3443,7 +3443,7 @@ Biden (D): 46% (201,952 votes)
 Estimated: 17-21% votes in
 
 More results here: https://t.co/Zyu1sHn8HZ"
-SC,2020-11-04T01:57:36Z,Biden,201952,0.46,"SC Presidential Election Results
+SC,2020-11-04T01:57:36Z,Biden,201952,"SC Presidential Election Results
 
 Trump (R): 53% (228,048 votes)
 Biden (D): 46% (201,952 votes)
@@ -3451,7 +3451,7 @@ Biden (D): 46% (201,952 votes)
 Estimated: 17-21% votes in
 
 More results here: https://t.co/Zyu1sHn8HZ"
-PA,2020-11-04T01:53:58Z,Biden,559857,0.79,"PA Presidential Election Results
+PA,2020-11-04T01:53:58Z,Biden,559857,"PA Presidential Election Results
 
 Biden (D): 79% (559,857 votes)
 Trump (R): 20% (140,060 votes)
@@ -3459,7 +3459,7 @@ Trump (R): 20% (140,060 votes)
 Estimated: 10-12% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T01:53:58Z,Trump,140060,0.2,"PA Presidential Election Results
+PA,2020-11-04T01:53:58Z,Trump,140060,"PA Presidential Election Results
 
 Biden (D): 79% (559,857 votes)
 Trump (R): 20% (140,060 votes)
@@ -3467,7 +3467,7 @@ Trump (R): 20% (140,060 votes)
 Estimated: 10-12% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-NC,2020-11-04T01:53:01Z,Biden,2148418,0.52,"NC Presidential Election Results
+NC,2020-11-04T01:53:01Z,Biden,2148418,"NC Presidential Election Results
 
 Biden (D): 52% (2,148,418 votes)
 Trump (R): 47% (1,927,790 votes)
@@ -3475,7 +3475,7 @@ Trump (R): 47% (1,927,790 votes)
 Estimated: 74-87% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T01:53:01Z,Trump,1927790,0.47,"NC Presidential Election Results
+NC,2020-11-04T01:53:01Z,Trump,1927790,"NC Presidential Election Results
 
 Biden (D): 52% (2,148,418 votes)
 Trump (R): 47% (1,927,790 votes)
@@ -3483,7 +3483,7 @@ Trump (R): 47% (1,927,790 votes)
 Estimated: 74-87% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-TX,2020-11-04T01:52:03Z,Biden,3416033,0.52,"TX Presidential Election Results
+TX,2020-11-04T01:52:03Z,Biden,3416033,"TX Presidential Election Results
 
 Biden (D): 52% (3,416,033 votes)
 Trump (R): 47% (3,102,774 votes)
@@ -3491,7 +3491,7 @@ Trump (R): 47% (3,102,774 votes)
 Estimated: 56-71% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T01:52:03Z,Trump,3102774,0.47,"TX Presidential Election Results
+TX,2020-11-04T01:52:03Z,Trump,3102774,"TX Presidential Election Results
 
 Biden (D): 52% (3,416,033 votes)
 Trump (R): 47% (3,102,774 votes)
@@ -3499,7 +3499,7 @@ Trump (R): 47% (3,102,774 votes)
 Estimated: 56-71% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-GA,2020-11-04T01:48:01Z,Trump,474909,0.55,"GA Presidential Election Results
+GA,2020-11-04T01:48:01Z,Trump,474909,"GA Presidential Election Results
 
 Trump (R): 55% (474,909 votes)
 Biden (D): 43% (365,010 votes)
@@ -3507,7 +3507,7 @@ Biden (D): 43% (365,010 votes)
 Estimated: 17-21% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T01:48:01Z,Biden,365010,0.43,"GA Presidential Election Results
+GA,2020-11-04T01:48:01Z,Biden,365010,"GA Presidential Election Results
 
 Trump (R): 55% (474,909 votes)
 Biden (D): 43% (365,010 votes)
@@ -3515,7 +3515,7 @@ Biden (D): 43% (365,010 votes)
 Estimated: 17-21% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-PA,2020-11-04T01:33:22Z,Biden,295055,0.83,"PA Presidential Election Results
+PA,2020-11-04T01:33:22Z,Biden,295055,"PA Presidential Election Results
 
 Biden (D): 83% (295,055 votes)
 Trump (R): 16% (58,172 votes)
@@ -3523,7 +3523,7 @@ Trump (R): 16% (58,172 votes)
 Estimated: 5-6% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-PA,2020-11-04T01:33:22Z,Trump,58172,0.16,"PA Presidential Election Results
+PA,2020-11-04T01:33:22Z,Trump,58172,"PA Presidential Election Results
 
 Biden (D): 83% (295,055 votes)
 Trump (R): 16% (58,172 votes)
@@ -3531,7 +3531,7 @@ Trump (R): 16% (58,172 votes)
 Estimated: 5-6% votes in
 
 More results here: https://t.co/BgcQsEyt3j"
-TX,2020-11-04T01:29:18Z,Biden,3204472,0.54,"TX Presidential Election Results
+TX,2020-11-04T01:29:18Z,Biden,3204472,"TX Presidential Election Results
 
 Biden (D): 54% (3,204,472 votes)
 Trump (R): 44% (2,621,336 votes)
@@ -3539,7 +3539,7 @@ Trump (R): 44% (2,621,336 votes)
 Estimated: 50-64% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T01:29:18Z,Trump,2621336,0.44,"TX Presidential Election Results
+TX,2020-11-04T01:29:18Z,Trump,2621336,"TX Presidential Election Results
 
 Biden (D): 54% (3,204,472 votes)
 Trump (R): 44% (2,621,336 votes)
@@ -3547,7 +3547,7 @@ Trump (R): 44% (2,621,336 votes)
 Estimated: 50-64% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-GA,2020-11-04T01:24:26Z,Trump,456152,0.55,"GA Presidential Election Results
+GA,2020-11-04T01:24:26Z,Trump,456152,"GA Presidential Election Results
 
 Trump (R): 55% (456,152 votes)
 Biden (D): 44% (362,399 votes)
@@ -3555,7 +3555,7 @@ Biden (D): 44% (362,399 votes)
 Estimated: 16-20% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T01:24:26Z,Biden,362399,0.44,"GA Presidential Election Results
+GA,2020-11-04T01:24:26Z,Biden,362399,"GA Presidential Election Results
 
 Trump (R): 55% (456,152 votes)
 Biden (D): 44% (362,399 votes)
@@ -3563,7 +3563,7 @@ Biden (D): 44% (362,399 votes)
 Estimated: 16-20% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-NC,2020-11-04T01:22:31Z,Biden,1509513,0.56,"NC Presidential Election Results
+NC,2020-11-04T01:22:31Z,Biden,1509513,"NC Presidential Election Results
 
 Biden (D): 56% (1,509,513 votes)
 Trump (R): 43% (1,149,407 votes)
@@ -3571,7 +3571,7 @@ Trump (R): 43% (1,149,407 votes)
 Estimated: 48-56% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-NC,2020-11-04T01:22:31Z,Trump,1149407,0.43,"NC Presidential Election Results
+NC,2020-11-04T01:22:31Z,Trump,1149407,"NC Presidential Election Results
 
 Biden (D): 56% (1,509,513 votes)
 Trump (R): 43% (1,149,407 votes)
@@ -3579,7 +3579,7 @@ Trump (R): 43% (1,149,407 votes)
 Estimated: 48-56% votes in
 
 More results here: https://t.co/mMSMwaoZxw"
-TX,2020-11-04T01:20:20Z,Trump,2225628,0.5,"TX Presidential Election Results
+TX,2020-11-04T01:20:20Z,Trump,2225628,"TX Presidential Election Results
 
 Trump (R): 50% (2,225,628 votes)
 Biden (D): 49% (2,186,344 votes)
@@ -3587,7 +3587,7 @@ Biden (D): 49% (2,186,344 votes)
 Estimated: 38-48% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-TX,2020-11-04T01:20:20Z,Biden,2186344,0.49,"TX Presidential Election Results
+TX,2020-11-04T01:20:20Z,Biden,2186344,"TX Presidential Election Results
 
 Trump (R): 50% (2,225,628 votes)
 Biden (D): 49% (2,186,344 votes)
@@ -3595,7 +3595,7 @@ Biden (D): 49% (2,186,344 votes)
 Estimated: 38-48% votes in
 
 More results here: https://t.co/hOnKMO4RDl"
-OH,2020-11-04T01:15:51Z,Biden,1414724,0.56,"OH Presidential Election Results
+OH,2020-11-04T01:15:51Z,Biden,1414724,"OH Presidential Election Results
 
 Biden (D): 56% (1,414,724 votes)
 Trump (R): 42% (1,064,114 votes)
@@ -3603,7 +3603,7 @@ Trump (R): 42% (1,064,114 votes)
 Estimated: 41-49% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-OH,2020-11-04T01:15:51Z,Trump,1064114,0.42,"OH Presidential Election Results
+OH,2020-11-04T01:15:51Z,Trump,1064114,"OH Presidential Election Results
 
 Biden (D): 56% (1,414,724 votes)
 Trump (R): 42% (1,064,114 votes)
@@ -3611,7 +3611,7 @@ Trump (R): 42% (1,064,114 votes)
 Estimated: 41-49% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-SC,2020-11-04T01:00:07Z,Biden,46244,0.58,"SC Presidential Election Results
+SC,2020-11-04T01:00:07Z,Biden,46244,"SC Presidential Election Results
 
 Biden (D): 58% (46,244 votes)
 Trump (R): 41% (32,198 votes)
@@ -3619,7 +3619,7 @@ Trump (R): 41% (32,198 votes)
 Estimated: 3-4% votes in
 
 More results here: https://t.co/Zyu1sHn8HZ"
-SC,2020-11-04T01:00:07Z,Trump,32198,0.41,"SC Presidential Election Results
+SC,2020-11-04T01:00:07Z,Trump,32198,"SC Presidential Election Results
 
 Biden (D): 58% (46,244 votes)
 Trump (R): 41% (32,198 votes)
@@ -3627,7 +3627,7 @@ Trump (R): 41% (32,198 votes)
 Estimated: 3-4% votes in
 
 More results here: https://t.co/Zyu1sHn8HZ"
-FL,2020-11-04T00:51:07Z,Biden,4686428,0.5,"FL Presidential Election Results
+FL,2020-11-04T00:51:07Z,Biden,4686428,"FL Presidential Election Results
 
 Biden (D): 50% (4,686,428 votes)
 Trump (R): 49% (4,593,279 votes)
@@ -3635,7 +3635,7 @@ Trump (R): 49% (4,593,279 votes)
 Estimated: 83-97% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:51:07Z,Trump,4593279,0.49,"FL Presidential Election Results
+FL,2020-11-04T00:51:07Z,Trump,4593279,"FL Presidential Election Results
 
 Biden (D): 50% (4,686,428 votes)
 Trump (R): 49% (4,593,279 votes)
@@ -3643,7 +3643,7 @@ Trump (R): 49% (4,593,279 votes)
 Estimated: 83-97% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-IN,2020-11-04T00:45:51Z,Trump,223874,0.55,"IN Presidential Election Results
+IN,2020-11-04T00:45:51Z,Trump,223874,"IN Presidential Election Results
 
 Trump (R): 55% (223,874 votes)
 Biden (D): 43% (173,161 votes)
@@ -3651,7 +3651,7 @@ Biden (D): 43% (173,161 votes)
 Estimated: 13-16% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-IN,2020-11-04T00:45:51Z,Biden,173161,0.43,"IN Presidential Election Results
+IN,2020-11-04T00:45:51Z,Biden,173161,"IN Presidential Election Results
 
 Trump (R): 55% (223,874 votes)
 Biden (D): 43% (173,161 votes)
@@ -3659,7 +3659,7 @@ Biden (D): 43% (173,161 votes)
 Estimated: 13-16% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-OH,2020-11-04T00:44:15Z,Biden,331512,0.68,"OH Presidential Election Results
+OH,2020-11-04T00:44:15Z,Biden,331512,"OH Presidential Election Results
 
 Biden (D): 68% (331,512 votes)
 Trump (R): 30% (147,245 votes)
@@ -3667,7 +3667,7 @@ Trump (R): 30% (147,245 votes)
 Estimated: 8-9% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-OH,2020-11-04T00:44:15Z,Trump,147245,0.3,"OH Presidential Election Results
+OH,2020-11-04T00:44:15Z,Trump,147245,"OH Presidential Election Results
 
 Biden (D): 68% (331,512 votes)
 Trump (R): 30% (147,245 votes)
@@ -3675,7 +3675,7 @@ Trump (R): 30% (147,245 votes)
 Estimated: 8-9% votes in
 
 More results here: https://t.co/dmd6wmGl3z"
-FL,2020-11-04T00:38:51Z,Biden,4420586,0.51,"FL Presidential Election Results
+FL,2020-11-04T00:38:51Z,Biden,4420586,"FL Presidential Election Results
 
 Biden (D): 51% (4,420,586 votes)
 Trump (R): 48% (4,146,670 votes)
@@ -3683,7 +3683,7 @@ Trump (R): 48% (4,146,670 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:38:51Z,Trump,4146670,0.48,"FL Presidential Election Results
+FL,2020-11-04T00:38:51Z,Trump,4146670,"FL Presidential Election Results
 
 Biden (D): 51% (4,420,586 votes)
 Trump (R): 48% (4,146,670 votes)
@@ -3691,7 +3691,7 @@ Trump (R): 48% (4,146,670 votes)
 Estimated: 76-89% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-GA,2020-11-04T00:33:05Z,Biden,112723,0.54,"GA Presidential Election Results
+GA,2020-11-04T00:33:05Z,Biden,112723,"GA Presidential Election Results
 
 Biden (D): 54% (112,723 votes)
 Trump (R): 45% (95,367 votes)
@@ -3699,7 +3699,7 @@ Trump (R): 45% (95,367 votes)
 Estimated: 4-5% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T00:33:05Z,Trump,95367,0.45,"GA Presidential Election Results
+GA,2020-11-04T00:33:05Z,Trump,95367,"GA Presidential Election Results
 
 Biden (D): 54% (112,723 votes)
 Trump (R): 45% (95,367 votes)
@@ -3707,7 +3707,7 @@ Trump (R): 45% (95,367 votes)
 Estimated: 4-5% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-FL,2020-11-04T00:32:21Z,Biden,3896932,0.51,"FL Presidential Election Results
+FL,2020-11-04T00:32:21Z,Biden,3896932,"FL Presidential Election Results
 
 Biden (D): 51% (3,896,932 votes)
 Trump (R): 48% (3,620,652 votes)
@@ -3715,7 +3715,7 @@ Trump (R): 48% (3,620,652 votes)
 Estimated: 67-78% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:32:21Z,Trump,3620652,0.48,"FL Presidential Election Results
+FL,2020-11-04T00:32:21Z,Trump,3620652,"FL Presidential Election Results
 
 Biden (D): 51% (3,896,932 votes)
 Trump (R): 48% (3,620,652 votes)
@@ -3723,7 +3723,7 @@ Trump (R): 48% (3,620,652 votes)
 Estimated: 67-78% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:27:53Z,Biden,3341814,0.51,"FL Presidential Election Results
+FL,2020-11-04T00:27:53Z,Biden,3341814,"FL Presidential Election Results
 
 Biden (D): 51% (3,341,814 votes)
 Trump (R): 48% (3,107,358 votes)
@@ -3731,7 +3731,7 @@ Trump (R): 48% (3,107,358 votes)
 Estimated: 57-67% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:27:53Z,Trump,3107358,0.48,"FL Presidential Election Results
+FL,2020-11-04T00:27:53Z,Trump,3107358,"FL Presidential Election Results
 
 Biden (D): 51% (3,341,814 votes)
 Trump (R): 48% (3,107,358 votes)
@@ -3739,7 +3739,7 @@ Trump (R): 48% (3,107,358 votes)
 Estimated: 57-67% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-GA,2020-11-04T00:21:51Z,Biden,95848,0.56,"GA Presidential Election Results
+GA,2020-11-04T00:21:51Z,Biden,95848,"GA Presidential Election Results
 
 Biden (D): 56% (95,848 votes)
 Trump (R): 43% (73,783 votes)
@@ -3747,7 +3747,7 @@ Trump (R): 43% (73,783 votes)
 Estimated: 3-4% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-GA,2020-11-04T00:21:51Z,Trump,73783,0.43,"GA Presidential Election Results
+GA,2020-11-04T00:21:51Z,Trump,73783,"GA Presidential Election Results
 
 Biden (D): 56% (95,848 votes)
 Trump (R): 43% (73,783 votes)
@@ -3755,7 +3755,7 @@ Trump (R): 43% (73,783 votes)
 Estimated: 3-4% votes in
 
 More results here: https://t.co/xlHf7GZUxJ"
-FL,2020-11-04T00:15:57Z,Biden,2527643,0.52,"FL Presidential Election Results
+FL,2020-11-04T00:15:57Z,Biden,2527643,"FL Presidential Election Results
 
 Biden (D): 52% (2,527,643 votes)
 Trump (R): 47% (2,270,670 votes)
@@ -3763,7 +3763,7 @@ Trump (R): 47% (2,270,670 votes)
 Estimated: 43-50% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:15:57Z,Trump,2270670,0.47,"FL Presidential Election Results
+FL,2020-11-04T00:15:57Z,Trump,2270670,"FL Presidential Election Results
 
 Biden (D): 52% (2,527,643 votes)
 Trump (R): 47% (2,270,670 votes)
@@ -3771,7 +3771,7 @@ Trump (R): 47% (2,270,670 votes)
 Estimated: 43-50% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:07:31Z,Biden,1190962,0.55,"FL Presidential Election Results
+FL,2020-11-04T00:07:31Z,Biden,1190962,"FL Presidential Election Results
 
 Biden (D): 55% (1,190,962 votes)
 Trump (R): 45% (978,747 votes)
@@ -3779,7 +3779,7 @@ Trump (R): 45% (978,747 votes)
 Estimated: 19-23% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-FL,2020-11-04T00:07:31Z,Trump,978747,0.45,"FL Presidential Election Results
+FL,2020-11-04T00:07:31Z,Trump,978747,"FL Presidential Election Results
 
 Biden (D): 55% (1,190,962 votes)
 Trump (R): 45% (978,747 votes)
@@ -3787,7 +3787,7 @@ Trump (R): 45% (978,747 votes)
 Estimated: 19-23% votes in
 
 More results here: https://t.co/6GfosqGUrH"
-IN,2020-11-03T23:58:06Z,Trump,92384,0.62,"IN Presidential Election Results
+IN,2020-11-03T23:58:06Z,Trump,92384,"IN Presidential Election Results
 
 Trump (R): 62% (92,384 votes)
 Biden (D): 37% (54,760 votes)
@@ -3795,7 +3795,7 @@ Biden (D): 37% (54,760 votes)
 Estimated: 5-6% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-IN,2020-11-03T23:58:06Z,Biden,54760,0.37,"IN Presidential Election Results
+IN,2020-11-03T23:58:06Z,Biden,54760,"IN Presidential Election Results
 
 Trump (R): 62% (92,384 votes)
 Biden (D): 37% (54,760 votes)
@@ -3803,7 +3803,7 @@ Biden (D): 37% (54,760 votes)
 Estimated: 5-6% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-KY,2020-11-03T23:41:53Z,Biden,86126,0.65,"KY Presidential Election Results
+KY,2020-11-03T23:41:53Z,Biden,86126,"KY Presidential Election Results
 
 Biden (D): 65% (86,126 votes)
 Trump (R): 33% (43,086 votes)
@@ -3811,7 +3811,7 @@ Trump (R): 33% (43,086 votes)
 Estimated: 6-7% votes in
 
 More results here: https://t.co/AJ7govUYwg"
-KY,2020-11-03T23:41:53Z,Trump,43086,0.33,"KY Presidential Election Results
+KY,2020-11-03T23:41:53Z,Trump,43086,"KY Presidential Election Results
 
 Biden (D): 65% (86,126 votes)
 Trump (R): 33% (43,086 votes)
@@ -3819,7 +3819,7 @@ Trump (R): 33% (43,086 votes)
 Estimated: 6-7% votes in
 
 More results here: https://t.co/AJ7govUYwg"
-IN,2020-11-03T23:38:24Z,Trump,25766,0.66,"IN Presidential Election Results
+IN,2020-11-03T23:38:24Z,Trump,25766,"IN Presidential Election Results
 
 Trump (R): 66% (25,766 votes)
 Biden (D): 32% (12,559 votes)
@@ -3827,7 +3827,7 @@ Biden (D): 32% (12,559 votes)
 Estimated: 1-2% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-IN,2020-11-03T23:38:24Z,Biden,12559,0.32,"IN Presidential Election Results
+IN,2020-11-03T23:38:24Z,Biden,12559,"IN Presidential Election Results
 
 Trump (R): 66% (25,766 votes)
 Biden (D): 32% (12,559 votes)
@@ -3835,7 +3835,7 @@ Biden (D): 32% (12,559 votes)
 Estimated: 1-2% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-KY,2020-11-03T23:30:11Z,Biden,68235,0.67,"KY Presidential Election Results
+KY,2020-11-03T23:30:11Z,Biden,68235,"KY Presidential Election Results
 
 Biden (D): 67% (68,235 votes)
 Trump (R): 31% (31,488 votes)
@@ -3843,7 +3843,7 @@ Trump (R): 31% (31,488 votes)
 Estimated: 4.5-5.4% votes in
 
 More results here: https://t.co/AJ7govUYwg"""
-KY,2020-11-03T23:30:11Z,Trump,31488,0.31,"KY Presidential Election Results
+KY,2020-11-03T23:30:11Z,Trump,31488,"KY Presidential Election Results
 
 Biden (D): 67% (68,235 votes)
 Trump (R): 31% (31,488 votes)
@@ -3851,7 +3851,7 @@ Trump (R): 31% (31,488 votes)
 Estimated: 4.5-5.4% votes in
 
 More results here: https://t.co/AJ7govUYwg"""
-IN,2020-11-03T23:23:51Z,Trump,2214,0.65,"IN Presidential Election Results
+IN,2020-11-03T23:23:51Z,Trump,2214,"IN Presidential Election Results
 
 Trump (R): 65% (2,214 votes)
 Biden (D): 33% (1,133 votes)
@@ -3859,7 +3859,7 @@ Biden (D): 33% (1,133 votes)
 Estimated: 0.1% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-IN,2020-11-03T23:23:51Z,Biden,1133,0.33,"IN Presidential Election Results
+IN,2020-11-03T23:23:51Z,Biden,1133,"IN Presidential Election Results
 
 Trump (R): 65% (2,214 votes)
 Biden (D): 33% (1,133 votes)
@@ -3867,13 +3867,13 @@ Biden (D): 33% (1,133 votes)
 Estimated: 0.1% votes in
 
 More results here: https://t.co/T38wP4qfHU"
-NH,2020-11-03T05:29:14Z,Trump,16,0.62,"NH Presidential Election Results (Dixville &amp; Millsfield) 
+NH,2020-11-03T05:29:14Z,Trump,16,"NH Presidential Election Results (Dixville &amp; Millsfield) 
 
 Trump (R): 62% (16 votes)
 Biden (D): 38% (10 votes)
 
 More results here:  https://t.co/bzDw9IrYJM"
-NH,2020-11-03T05:29:14Z,Biden,10,0.38,"NH Presidential Election Results (Dixville &amp; Millsfield) 
+NH,2020-11-03T05:29:14Z,Biden,10,"NH Presidential Election Results (Dixville &amp; Millsfield) 
 
 Trump (R): 62% (16 votes)
 Biden (D): 38% (10 votes)
